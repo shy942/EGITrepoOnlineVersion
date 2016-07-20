@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/dialogs/IPageChangingListener.java
+org eclipse jface dialogs listener notified current multi dialog changing use listener perform running work executed process changing validation controls page changing event page changing listener handle code dialog page code changing code doit code field code page changing event code set false prevent changing param event event object describing change handle page changing page changing event event

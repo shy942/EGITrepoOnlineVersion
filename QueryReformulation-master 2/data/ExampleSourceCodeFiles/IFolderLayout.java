@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IFolderLayout.java
+org eclipse code folder layout code define initial views folder folder contained code page layout code this intended implemented clients page layout create folder noimplement this intended implemented clients folder layout placeholder folder layout adds view compound folder see link page layout type documentation details compound ids primary view contributed workbench view extension point named code org eclipse views code param view view add view string view

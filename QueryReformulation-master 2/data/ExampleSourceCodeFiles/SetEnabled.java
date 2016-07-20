@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.core.commands/src/org/eclipse/e4/core/commands/internal/SetEnabled.java
+org eclipse core commands internal java lang annotation documented java lang annotation element type java lang annotation retention java lang annotation retention policy java lang annotation target use annotation tag method call handler set enabled method this annotation applied method methods tagged annotation called noreference documented target element type retention retention policy set enabled

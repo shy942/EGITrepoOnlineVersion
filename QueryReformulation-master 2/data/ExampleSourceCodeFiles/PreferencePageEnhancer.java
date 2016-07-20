@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/tweaklets/PreferencePageEnhancer.java
+org eclipse internal tweaklets org eclipse swt widgets composite org eclipse internal tweaklets tweaklets tweak key preference page enhancer tweak key tweaklets tweak key preference page enhancer tweaklets set default preference page enhancer dummy pref page enhancer create contents composite parent set selection object selection perform perform cancel perform defaults

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/FlushInputAction.java
+org eclipse jface tests viewers interactive flush input action test browser action flush input action string label test browser browser label browser override browser set input null

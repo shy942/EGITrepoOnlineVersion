@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views.properties.tabbed/src/org/eclipse/ui/views/properties/tabbed/AbstractTypeMapper.java
+org eclipse views properties tabbed default implementation type mapper author anthony hunter abstract type mapper type mapper class map type object object object class

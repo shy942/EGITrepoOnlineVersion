@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/SpinnerMinimumProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets spinner spinner minimum property widget int value property override get int value object source spinner source minimum override set int value object source spinner source set minimum override string string spinner minimum

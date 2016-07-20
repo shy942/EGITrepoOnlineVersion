@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/keys/model/CommonModel.java
+org eclipse internal model common model model element string selected element model element selected element param common model key controller returns selected context model element selected element selected element param selected context selected context set set selected element model element selected context model element selected element selected element selected context controller fire property change selected context

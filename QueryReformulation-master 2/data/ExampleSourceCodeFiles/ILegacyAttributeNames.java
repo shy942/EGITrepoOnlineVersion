@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/commands/ILegacyAttributeNames.java
+org eclipse internal commands org eclipse jface action action this defines attribute names understood eclipse this provide legacy support attribute map property legacy attribute names whether handler capable executing string action whether handler capable handling delegation responsibilities time string action

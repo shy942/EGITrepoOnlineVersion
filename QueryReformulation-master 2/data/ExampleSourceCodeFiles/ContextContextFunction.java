@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.services/src/org/eclipse/e4/ui/internal/services/ContextContextFunction.java
+org eclipse internal services org eclipse core contexts context function org eclipse core contexts eclipse context context context function context function override object compute eclipse context context string context key context context service context

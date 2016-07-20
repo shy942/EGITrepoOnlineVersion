@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.performance/src/org/eclipse/ui/tests/performance/ActivitiesPerformanceSuite.java
+org eclipse tests performance junit framework test junit framework test suite activities performance suite test suite returns suite this required unit launcher test suite activities performance suite activities performance suite add test generate identifiers test

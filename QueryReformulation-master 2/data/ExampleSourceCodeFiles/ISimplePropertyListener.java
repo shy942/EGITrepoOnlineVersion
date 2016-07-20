@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.property/src/org/eclipse/core/databinding/property/ISimplePropertyListener.java
+org eclipse core databinding property org eclipse core databinding observable diff listener properties source object param type diff handled listener param type source object noextend this intended extended clients noimplement this intended implemented clients functional interface simple property listener diff handle property event param event event occurred handle event simple property event event

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/text/TextTestsSectionDescriptor2.java
+org eclipse tests views properties tabbed text org eclipse jface viewers filter descriptor text test view filtered author anthony hunter text tests section descriptor text tests section descriptor text tests section descriptor string word string tab word tab org eclipse views properties tabbed abstract section descriptor filter override filter filter filter override select object test false

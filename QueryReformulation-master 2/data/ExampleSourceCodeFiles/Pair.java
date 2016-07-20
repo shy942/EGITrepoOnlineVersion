@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding/src/org/eclipse/core/internal/databinding/Pair.java
+org eclipse core internal databinding class pair represents mathematical pair objects pair pair object pair object construct pair param pair param pair pair object object override hash code prime result result prime result null hash code result prime result null hash code result override equals object obj obj true obj null false class obj class false pair pair obj null null false equals false null null false equals false true

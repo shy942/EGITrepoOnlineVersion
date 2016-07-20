@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views/src/org/eclipse/ui/views/properties/IPropertySourceProvider.java
+org eclipse views properties interface link org eclipse views properties property sheet entry link org eclipse views properties property source object this implemented clients property source provider returns property source object param object object property source object passed code null code property source property source object object

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/AcceptAllFilter.java
+org eclipse jface viewers filter accepts available singleton instance wasteful accept all filter filter returns singleton instance accept all filter singleton instance accept all filter filter instance singleton singleton instance filter singleton accept all filter override select object test true override equals object accept all filter

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/operations/UnredoableTestOperation.java
+org eclipse tests operations unredoable test operation test operation unredoable test operation string disposed false override redo false override dispose disposed true

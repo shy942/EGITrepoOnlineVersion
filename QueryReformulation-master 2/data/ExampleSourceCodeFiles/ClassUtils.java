@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/utils/ClassUtils.java
+org eclipse css core utils class utils class utils return simple class code code param string simple name class string name index substring length classes outer inner allowed selector translate replace return class code code param string package name class string name index substring null

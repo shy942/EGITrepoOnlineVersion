@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/dom/parsers/CSSParserFactory.java
+org eclipse css core dom parsers org eclipse css core impl dom parsers parser factory impl parser factory manage instance link parser factory parser factory parser factory obtain instance link parser factory parser factory instance parser factory impl

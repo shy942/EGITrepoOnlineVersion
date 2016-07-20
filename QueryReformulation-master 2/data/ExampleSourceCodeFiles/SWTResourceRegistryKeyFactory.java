@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.swt/src/org/eclipse/e4/ui/css/swt/resources/SWTResourceRegistryKeyFactory.java
+org eclipse css swt resources org eclipse css core resources resource registry key factory org eclipse css swt helpers color helper org eclipse css swt helpers font helper org dom css value resource registry key factory resource registry key factory override object create key value object key create key color helper color definition value font helper font definition family resource definition key key key

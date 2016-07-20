@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.cssbridge/src/org/eclipse/e4/demo/cssbridge/model/Mail.java
+org eclipse demo cssbridge model java util date mail importance string sender string subject date string body set importance importance importance importance set sender string sender sender sender string sender sender set subject string subject subject subject string subject subject set body string body body body string body body set date date date date

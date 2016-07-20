@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/intro/IntroMessages.java
+org eclipse internal intro org eclipse osgi util intro messages messages intro support intro messages string org eclipse internal intro intro string intro create string intro create proxy string intro create descriptor string intro action text string intro title string intro missing product title string intro missing product message load message values bundle file initialize messages intro messages

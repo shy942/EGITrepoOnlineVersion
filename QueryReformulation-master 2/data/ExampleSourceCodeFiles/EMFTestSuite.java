@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.emf.xpath.test/src/org/eclipse/e4/emf/xpath/test/EMFTestSuite.java
+org eclipse emf xpath test org junit runner run with org junit runners suite org junit runners suite suite classes run with suite suite classes example queries test case test suite

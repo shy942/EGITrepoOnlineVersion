@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views.properties.tabbed/src/org/eclipse/ui/views/properties/tabbed/IOverridableTabListContentProvider.java
+org eclipse views properties tabbed org eclipse jface viewers structured content provider content provider tabbed property sheet list tabs used overrides tabs tabbed property registry list tabs overridable tab list content provider sections tab labels author anthony hunter overridable tab list content provider structured content provider override tabs displayed tab list list tabs override tabs

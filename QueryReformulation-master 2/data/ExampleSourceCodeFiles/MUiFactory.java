@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/MUiFactory.java
+org eclipse model application user doc factory model create method model user doc generated factory singleton instance factory user doc user doc generated factory org eclipse model application impl factory impl returns object core expression user doc user doc object core expression generated core expression create core expression factory

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench/src/org/eclipse/e4/ui/workbench/modeling/IWindowCloseHandler.java
+org eclipse workbench modeling org eclipse model application basic window handler inserted context application window determine window closed noreference this intended referenced clients window close handler close window window

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.navigator/src/org/eclipse/ui/tests/navigator/cdt/CProject.java
+org eclipse tests navigator cdt org eclipse core resources resource project element project navigator content provider resource resource element parent resource parent

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/action/IToolBarManager.java
+org eclipse jface action code tool bar manager code protocol managing contributions tool bar code contribution manager code declare members exists increase readability code tool bars this concrete tool bar manager implementation link tool bar manager code tool bar manager code tool bar manager contribution manager

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.commands/src/org/eclipse/core/commands/INamedHandleStateIds.java
+org eclipse core commands state identifiers understood named handle objects implement link object with state clients implement extend named handle state ids overriding description named handle object this link string string overriding named handle object this link string string

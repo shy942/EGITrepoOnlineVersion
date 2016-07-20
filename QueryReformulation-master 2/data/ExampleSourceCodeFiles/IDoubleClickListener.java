@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IDoubleClickListener.java
+org eclipse jface viewers listener notified click events viewers double click listener notifies click param event event object describing click click double click event event

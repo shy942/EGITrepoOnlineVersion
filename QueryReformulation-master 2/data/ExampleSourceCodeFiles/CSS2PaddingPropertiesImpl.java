@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/dom/properties/css2/CSS2PaddingPropertiesImpl.java
+org eclipse css core dom properties css org dom exception org dom css value padding properties impl value value top value bottom value left value override string css text auto generated method stub null override css value type value override set css text string arg exception auto generated method stub

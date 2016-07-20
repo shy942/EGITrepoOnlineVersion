@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.jface.tests.databinding/src/org/eclipse/core/tests/internal/databinding/conversion/StringToNumberParserFloatTest.java
+org eclipse core tests internal databinding conversion org eclipse core internal databinding conversion string number parser string number parser float test string number parser test harness override valid number number string number parser float range number override number valid max float float override number valid min float float

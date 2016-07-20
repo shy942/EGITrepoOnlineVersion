@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/progress/AbstractProgressViewer.java
+org eclipse internal progress org eclipse jface viewers structured viewer abstract progress viewer superclass viewers progress abstract progress viewer structured viewer add elements receiver param elements add object elements remove elements receiver param elements remove object elements

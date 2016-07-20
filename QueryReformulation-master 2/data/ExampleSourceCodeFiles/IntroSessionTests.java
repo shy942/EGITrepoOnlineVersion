@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/session/IntroSessionTests.java
+org eclipse tests session junit framework test case junit framework test suite org eclipse platform tests intro session properties intro session tests test case test suite suite test suite test suite org eclipse tests session intro session tests add test intro session tests test intro param intro session tests string test intro intro null platform workbench intro manager intro

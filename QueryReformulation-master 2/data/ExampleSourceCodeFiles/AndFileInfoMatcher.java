@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/ide/misc/AndFileInfoMatcher.java
+org eclipse internal ide misc org eclipse core filesystem file info org eclipse core resources container org eclipse core resources filtermatchers compound file info matcher org eclipse core runtime core exception resource filter type factory supporting logical preposition and file info matcher compound file info matcher override matches container parent file info file info core exception matchers length matchers matches parent file info false true

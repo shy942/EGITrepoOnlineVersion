@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.progress/src/org/eclipse/e4/ui/progress/internal/ProgressServiceCreationFunction.java
+org eclipse progress internal org eclipse core contexts context function org eclipse core contexts context injection factory org eclipse core contexts eclipse context progress service creation function context function override object compute eclipse context context string context key context injection factory progress service impl context

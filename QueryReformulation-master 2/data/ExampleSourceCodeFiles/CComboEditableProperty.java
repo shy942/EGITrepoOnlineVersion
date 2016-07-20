@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/CComboEditableProperty.java
+org eclipse jface internal databinding swt org eclipse swt custom combo combo editable property widget boolean value property override get boolean value object source combo source editable override set boolean value object source combo source set editable override string string combo editable

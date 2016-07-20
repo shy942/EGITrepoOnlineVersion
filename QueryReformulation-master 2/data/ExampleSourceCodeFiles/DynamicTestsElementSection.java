@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/dynamic/sections/DynamicTestsElementSection.java
+org eclipse tests views properties tabbed dynamic sections dynamic tests view author anthony hunter dynamic tests element section dynamic tests abstract label section override string group element override string label element

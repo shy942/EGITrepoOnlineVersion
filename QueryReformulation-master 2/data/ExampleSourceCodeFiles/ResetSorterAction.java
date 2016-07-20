@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/ResetSorterAction.java
+org eclipse jface tests viewers interactive org eclipse jface viewers structured viewer org eclipse jface viewers viewer reset sorter action test browser action reset sorter action string label test browser browser label browser override viewer viewer browser viewer viewer structured viewer structured viewer structured viewer viewer set sorter null

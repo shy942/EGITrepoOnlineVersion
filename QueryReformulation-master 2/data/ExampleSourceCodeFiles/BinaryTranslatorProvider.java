@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.contacts/src/org/eclipse/e4/demo/contacts/model/internal/BinaryTranslatorProvider.java
+org eclipse demo contacts model internal org eclipse core services translation translation service binary translator provider translation service override string translate string key string contributor key null null array key char array string buffer tmp string buffer tmp append array length array tmp append integer hex string tmp string

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/tweaklets/LegacyAnimations.java
+org eclipse internal tweaklets org eclipse swt widgets shell org eclipse internal legacy animation feedback org eclipse internal rectangle animation feedback base return legacy animation legacy animations animations default tor legacy animations override rectangle animation feedback base create feedback shell shell legacy animation feedback shell null null

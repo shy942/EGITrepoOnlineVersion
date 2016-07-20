@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/views/TypeMapper.java
+org eclipse tests views properties tabbed views org eclipse jface viewers tree node org eclipse views properties tabbed abstract type mapper type mapper abstract type mapper override class map type object object object tree node tree node object value class map type object

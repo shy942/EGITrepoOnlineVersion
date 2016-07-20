@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/TextMessageProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets text text message property widget string value property override string get string value object source text source message override set string value object source string text source set message null override string string text message string

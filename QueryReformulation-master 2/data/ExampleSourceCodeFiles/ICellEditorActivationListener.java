@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views/src/org/eclipse/ui/views/properties/ICellEditorActivationListener.java
+org eclipse views properties org eclipse jface viewers cell editor cell editor activation listener notifies cell editor activated param cell editor cell editor activated cell editor activated cell editor cell editor notifies cell editor deactivated param cell editor cell editor deactivated cell editor deactivated cell editor cell editor

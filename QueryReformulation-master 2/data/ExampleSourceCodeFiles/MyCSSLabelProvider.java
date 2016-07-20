@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests.css.swt/tkuiTestsToRefactor/swt/test/org/akrogen/tkui/css/swt/engine/table/viewers/MyCSSLabelProvider.java
+org akrogen tkui css swt engine table viewers org akrogen tkui css core engine engine org akrogen tkui css jface viewers label provider org eclipse jface viewers table viewer label provider label provider label provider engine engine table viewer table viewer engine table viewer string text object element element string

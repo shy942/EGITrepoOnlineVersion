@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/views/markers/internal/ProblemMarker.java
+org eclipse views markers internal org eclipse core resources marker problem marker concrete marker severity problem marker marker copy copy override refresh refresh severity marker attribute marker severity severity

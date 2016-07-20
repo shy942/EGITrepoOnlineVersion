@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/GroupTextProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets group text databinding property groups author eugen neufeld group text property widget string value property override string get string value object source group source text override set string value object source string group source set text null override string string group text string

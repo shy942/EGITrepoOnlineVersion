@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/MToolBar.java
+org eclipse model application menu org eclipse model application element container org eclipse model application basic trim element user doc representation model object tool bar user doc model doc this concrete representing toolbar model noimplement this intended implemented clients model doc model generated tool bar element container tool bar element trim element tool bar

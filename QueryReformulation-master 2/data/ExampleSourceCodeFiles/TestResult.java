@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/autotests/TestResult.java
+org eclipse tests autotests test result string result throwable thrown exception test result string expected result result expected result test result throwable result null thrown exception return expected result null test threw exception terminate expected result null test threw exception terminate string return value result throwable exception thrown exception

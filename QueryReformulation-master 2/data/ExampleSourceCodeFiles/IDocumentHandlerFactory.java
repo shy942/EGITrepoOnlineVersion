@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/sac/IDocumentHandlerFactory.java
+org eclipse css core sac factory instance link extended document handler document handler factory return instance link extended document handler extended document handler document handler

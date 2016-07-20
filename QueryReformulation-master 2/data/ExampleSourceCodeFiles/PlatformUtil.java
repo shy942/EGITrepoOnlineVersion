@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.harness/src/org/eclipse/ui/tests/harness/util/PlatformUtil.java
+org eclipse tests harness util org eclipse jface util util platform util test platform platform util determine running mac platform true runnig mac platform mac util mac

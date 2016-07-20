@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/dialogs/IInputValidator.java
+org eclipse jface dialogs input validator simple validators org eclipse jface dialogs input dialog input validator validates string returns error message display text invalid returns code null code error note empty string treated code null code error message display param text text check validity error message code null code error string valid string text

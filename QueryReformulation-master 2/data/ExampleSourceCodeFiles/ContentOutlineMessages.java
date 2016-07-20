@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views/src/org/eclipse/ui/internal/views/contentoutline/ContentOutlineMessages.java
+org eclipse internal views contentoutline org eclipse osgi util content outline messages message messages content outline content outline messages string org eclipse internal views contentoutline messages outline view string content outline outline load message values bundle file initialize messages content outline messages

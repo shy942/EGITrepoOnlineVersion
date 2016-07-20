@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests.css.swt/tkuiTestsToRefactor/swt/test/org/akrogen/tkui/css/swt/examples/chat/ChatWithOsxStyle.java
+org akrogen tkui css swt examples chat org akrogen tkui css swt resources resources chat with osx style abstract chat example chat with osx style resources osx main string args chat with osx style test osx chat with osx style test osx display exception print stack trace

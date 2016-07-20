@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/activities/IActivityRegistryListener.java
+org eclipse internal activities activity registry listener activity registry changed activity registry event activity registry event

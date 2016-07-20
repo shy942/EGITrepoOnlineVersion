@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/ITreeViewerListener.java
+org eclipse jface viewers listener notified tree viewer expands collapses node tree viewer listener notifies node tree collapsed param event event object describing details tree collapsed tree expansion event event notifies node tree expanded param event event object describing details tree expanded tree expansion event event

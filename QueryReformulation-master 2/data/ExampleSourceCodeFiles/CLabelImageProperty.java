@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/CLabelImageProperty.java
+org eclipse jface internal databinding swt org eclipse swt custom label org eclipse swt graphics image label image property widget image value property override image get image value object source label source image override set image value object source image label source set image override string string label image image

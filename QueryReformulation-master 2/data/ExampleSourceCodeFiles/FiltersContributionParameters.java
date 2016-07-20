@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/views/markers/FiltersContributionParameters.java
+org eclipse views markers java util map marker field parameters specifies map parameters passed link marker field filter filters contribution parameters returns map keyed names parameter values values actual values interpreted link marker field filter parameters designed note parameters marker field filter visible link marker field markers view map parameter code string code actual parameter code string code map parameter values

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/api/MockViewActionDelegate.java
+org eclipse tests api org eclipse view action delegate org eclipse view part this mock test view action delegate lifecycle mock view action delegate mock action delegate view action delegate constructor mock workbench window action delegate mock view action delegate view action delegate init view part override init view part view call history add init

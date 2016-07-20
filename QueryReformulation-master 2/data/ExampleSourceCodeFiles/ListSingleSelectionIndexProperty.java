@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ListSingleSelectionIndexProperty.java
+org eclipse jface internal databinding swt org eclipse swt org eclipse swt widgets list list single selection index property single selection index property list single selection index property selection default selection override get int value object source list source selection index override set int value object source list source deselect all list source set selection override string string list selection index

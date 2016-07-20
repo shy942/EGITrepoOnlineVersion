@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.observable/src/org/eclipse/core/databinding/observable/map/IMapChangeListener.java
+org eclipse core databinding observable map org eclipse core databinding observable observables listener listener observable maps param type map param type values map functional interface map change listener observables listener handle change observable map event object locally method reused change notifications diff object referenced event immutable locally param event event handle map change map change event event

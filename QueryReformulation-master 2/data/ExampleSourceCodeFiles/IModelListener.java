@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.forms.examples/src/org/eclipse/ui/forms/examples/internal/rcp/IModelListener.java
+org eclipse forms examples internal rcp author dejan change template generated type comment window preferences java code generation code comments model listener string string removed string changed model changed object objects string type string property

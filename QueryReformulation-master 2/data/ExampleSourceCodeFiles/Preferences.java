@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.progress/src/org/eclipse/e4/ui/progress/internal/Preferences.java
+org eclipse progress internal java util map javax inject inject org eclipse model application application preferences map string string preferences inject update preferences application application preferences application persisted state boolean string key boolean parse boolean preferences key set string key preferences key boolean string set string key string preferences key

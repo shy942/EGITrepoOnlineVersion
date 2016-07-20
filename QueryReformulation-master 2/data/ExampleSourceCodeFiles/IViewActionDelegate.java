@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IViewActionDelegate.java
+org eclipse interface action contributed view local tool bar pulldown menu popup menu code action delegate code adds initialization method connecting delegate view work view action delegate action delegate initializes action delegate view work param view view context delegate init view part view

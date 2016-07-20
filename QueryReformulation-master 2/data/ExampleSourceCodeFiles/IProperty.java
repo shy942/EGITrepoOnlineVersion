@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.property/src/org/eclipse/core/databinding/property/IProperty.java
+org eclipse core databinding property marker property types properties framework noimplement this intended implemented clients property

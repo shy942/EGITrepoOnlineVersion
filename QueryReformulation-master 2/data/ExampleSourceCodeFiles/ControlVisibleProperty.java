@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ControlVisibleProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets control control visible property widget boolean value property override get boolean value object source control source visible override set boolean value object source control source set visible override string string control visible

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.property/src/org/eclipse/core/databinding/property/IPropertyObservable.java
+org eclipse core databinding property org eclipse core databinding observable observing provides access details property observables param specific type property observed property observable property observing returns property observed property observed property

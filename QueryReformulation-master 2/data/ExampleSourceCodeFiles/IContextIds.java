@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/contexts/IContextIds.java
+org eclipse jface contexts list context identifiers context identifiers prefix org eclipse historical reasons these contexts exist face this implemented extended clients context ids identifier context active shell registered dialog string org eclipse contexts dialog identifier context active shell registered window dialog string org eclipse contexts dialog and window identifier context active shell registered window string org eclipse contexts window

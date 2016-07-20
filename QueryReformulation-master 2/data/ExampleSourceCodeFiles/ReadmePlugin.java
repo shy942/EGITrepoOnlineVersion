@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.readmetool/Eclipse UI Examples Readme Tool/org/eclipse/ui/examples/readmetool/ReadmePlugin.java
+org eclipse examples readmetool org eclipse plugin abstract plugin this top level readme plugin tool abstract plugin additional plugins readme plugin abstract plugin string org eclipse examples readmetool default instance receiver readme plugin inst creates readme plugin caches instance readme plugin inst null inst gets plugin singleton readme plugin instance readme plugin default inst

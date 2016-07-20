@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests/src/org/eclipse/e4/ui/tests/workbench/TargetedView.java
+org eclipse tests workbench javax annotation post construct javax inject inject javax inject named org eclipse model application basic part org eclipse workbench modeling part service org eclipse workbench modeling part service part state targeted view string org eclipse tests targeted view target inject part service service inject part state inject named part passed false post construct create service part passed object null

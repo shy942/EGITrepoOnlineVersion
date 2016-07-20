@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/keys/KeyAssistMessages.java
+org eclipse internal org eclipse osgi util key assist messages manages messages key assist dialog key assist messages string org eclipse internal key assist dialog string matches message string open preference page load message values bundle file initialize messages key assist messages

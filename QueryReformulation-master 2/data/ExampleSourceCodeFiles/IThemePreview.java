@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/themes/IThemePreview.java
+org eclipse themes org eclipse swt widgets composite interface theme element developers preview usage elements colors fonts preference theme preview create preview control param parent composite create param current theme theme preview create control composite parent theme current theme dispose resources previewer this method called workbench called user dispose

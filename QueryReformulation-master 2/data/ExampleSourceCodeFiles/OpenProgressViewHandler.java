@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.progress/src/org/eclipse/e4/ui/progress/OpenProgressViewHandler.java
+org eclipse progress org eclipse core annotations execute org eclipse progress internal progress manager util opens progress view noreference open progress view handler execute open progress view progress manager util open progress view

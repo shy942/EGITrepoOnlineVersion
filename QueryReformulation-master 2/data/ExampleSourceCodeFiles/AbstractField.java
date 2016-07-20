@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/views/markers/internal/AbstractField.java
+org eclipse views markers internal abstract field superclass fields abstract field field visible true override showing visible set receiver showing param showing override set showing showing visible showing

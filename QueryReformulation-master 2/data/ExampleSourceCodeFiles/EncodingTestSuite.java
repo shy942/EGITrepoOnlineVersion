@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/encoding/EncodingTestSuite.java
+org eclipse tests encoding org junit runner run with org junit runners suite junit framework test suite encoding test suite suite encoding tests run with suite suite suite classes encoding test case encoding test suite test suite

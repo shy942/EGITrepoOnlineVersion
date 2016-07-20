@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/e4/migration/MementoSerializer.java
+org eclipse internal migration java exception java string writer org eclipse memento org eclipse memento org eclipse internal workbench plugin memento serializer memento memento memento serializer memento memento memento memento string serialize memento memento null string writer writer string writer memento memento save writer exception workbench plugin log writer string

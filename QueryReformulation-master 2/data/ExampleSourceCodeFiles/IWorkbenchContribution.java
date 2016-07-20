@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/menus/IWorkbenchContribution.java
+org eclipse menus org eclipse services service locator allow menu contribution initialized service locator workbench contribution service locator contribution exist longer lifecycle specific contribution contribution items remove listeners services dispose calls param service locator locator services retrieved will code null code initialize service locator service locator

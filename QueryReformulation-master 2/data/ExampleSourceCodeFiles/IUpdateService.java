@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench.renderers.swt/src/org/eclipse/e4/ui/internal/workbench/renderers/swt/IUpdateService.java
+org eclipse internal workbench renderers swt org eclipse core commands parameterized command org eclipse model application menu item bridging command service registering element item update callbacks see bug update service runnable register element for update parameterized command parameterized command item item

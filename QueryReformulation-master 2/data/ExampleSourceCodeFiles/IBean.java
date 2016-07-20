@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.jface.tests.databinding/src/org/eclipse/core/tests/internal/databinding/beans/IBean.java
+org eclipse core tests internal databinding beans java util list java util map java util set bean string value set value string object array set array object array list list set list list list set set set set set set map map set map map map

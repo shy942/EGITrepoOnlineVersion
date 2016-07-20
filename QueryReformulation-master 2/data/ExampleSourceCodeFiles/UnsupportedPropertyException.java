@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/exceptions/UnsupportedPropertyException.java
+org eclipse css core exceptions exception property handler retrieved version author href mailto angelo zerr gmail angelo unsupported property exception exception serial version string property unsupported property exception string property property null illegal argument exception property property override string message property property supported

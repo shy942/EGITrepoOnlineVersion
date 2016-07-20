@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/preference/IPersistentPreferenceStore.java
+org eclipse jface preference java exception persistent preference store preference store saved persistent preference store preference store saves valued preferences preference store file originally loaded exception java exception problem saving store save exception

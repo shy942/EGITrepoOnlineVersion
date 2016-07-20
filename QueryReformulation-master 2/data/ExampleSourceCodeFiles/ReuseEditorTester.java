@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/handlers/ReuseEditorTester.java
+org eclipse internal handlers org eclipse core expressions property tester org eclipse jface preference preference store org eclipse internal preference constants org eclipse internal workbench plugin test pinning reuse editor tester property tester override test object receiver string property object args object expected value preference store store workbench plugin default preference store store boolean preference constants

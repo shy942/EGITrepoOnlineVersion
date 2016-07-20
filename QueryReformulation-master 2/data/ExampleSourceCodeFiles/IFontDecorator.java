@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IFontDecorator.java
+org eclipse jface viewers org eclipse swt graphics font font decorator objects font decorate object font decorator decorates font object font provider font decorator precedence font provider font decorator return font element code null code param element font code null code font decorate font object element

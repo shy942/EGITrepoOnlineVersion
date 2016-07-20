@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/databinding/swt/ISWTObservableList.java
+org eclipse jface databinding swt org eclipse core databinding observable list observable list link observable list observing widget observable list observable observable list

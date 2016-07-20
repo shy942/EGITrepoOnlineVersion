@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/dom/CSSUnknownRuleImpl.java
+org eclipse css core impl dom org dom css rule org dom css style sheet org dom css unknown rule unknown rule impl rule impl unknown rule unknown rule impl style sheet parent style sheet rule parent rule string rule parent style sheet parent rule auto generated constructor stub override type rule

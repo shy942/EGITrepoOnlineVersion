@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.commands/src/org/eclipse/core/commands/common/AbstractBitSetEvent.java
+org eclipse core commands common event carries values this single integer bit set abstract bit set event collection bits representing values changed bit set code code property changed assumed correctly initialized superconstructor changed values

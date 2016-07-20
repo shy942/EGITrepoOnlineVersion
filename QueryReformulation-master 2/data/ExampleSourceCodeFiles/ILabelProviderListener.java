@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/ILabelProviderListener.java
+org eclipse jface viewers listener notified label provider base label provider add listener base label provider remove listener label provider listener notifies listener label provider changed labels computes typical response refresh labels requesting label provider param event label provider change event label provider changed label provider changed event event

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests/src/org/eclipse/e4/ui/tests/application/ClientEditor.java
+org eclipse tests application javax inject inject org eclipse focus org eclipse persist org eclipse model application dirtyable client editor inject dirtyable dirtyable save called false focus called false exception false set throw exception exception exception exception focus delegate focus focus called true persist save save called true exception runtime exception dirtyable set dirty false save called save called focus called focus called

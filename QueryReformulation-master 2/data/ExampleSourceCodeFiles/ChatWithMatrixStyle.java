@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests.css.swt/tkuiTestsToRefactor/swt/test/org/akrogen/tkui/css/swt/examples/chat/ChatWithMatrixStyle.java
+org akrogen tkui css swt examples chat org akrogen tkui css swt resources resources chat with matrix style abstract chat example chat with matrix style resources matrix main string args chat with matrix style test matrix chat with matrix style test matrix display exception print stack trace

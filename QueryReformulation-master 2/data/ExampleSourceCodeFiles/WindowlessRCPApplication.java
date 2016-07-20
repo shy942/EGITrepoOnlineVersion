@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/ui/tests/WindowlessRCPApplication.java
+org eclipse tests windowless application session application windowless application set windowless app true

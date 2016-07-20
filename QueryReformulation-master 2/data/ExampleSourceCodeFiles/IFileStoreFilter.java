@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/ide/dialogs/IFileStoreFilter.java
+org eclipse internal ide dialogs org eclipse core filesystem file store file store filter defines filter file stores file store filter return store accepted receiver param store file store code true code store accepted accept file store store

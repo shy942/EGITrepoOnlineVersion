@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/themes/IThemeElementDefinition.java
+org eclipse internal themes basic element color font theme implement theme element definition returns element element string name returns element element this code null code string returns description element description element this code null code string description

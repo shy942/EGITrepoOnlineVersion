@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/ui/tests/commands/DefaultHandler.java
+org eclipse tests commands org eclipse core commands abstract handler org eclipse core commands execution event author prakash default handler abstract handler override object execute execution event event null

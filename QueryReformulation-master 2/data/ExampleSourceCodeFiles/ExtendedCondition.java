@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/sac/ExtendedCondition.java
+this copied org apache batik css engine sac org eclipse css core impl sac java util set org css sac condition org dom element this additional features link org css sac condition extended condition condition tests condition matches element match element string pseudo returns specificity condition specificity fills set attribute names selector fill attribute set set string attr set

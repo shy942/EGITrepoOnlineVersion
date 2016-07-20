@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/CreateModelAction.java
+org eclipse jface tests viewers interactive org eclipse jface tests viewers test element create model action test browser action level child count create model action string label test browser browser level child count label browser level level child count child count override clear input test element equals check size test element browser set input null browser set input test element create model level child count

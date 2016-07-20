@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/data/dynamic_classes/menus/org/eclipse/ui/dynamic/menus/NonInterestingContributionItem.java
+org eclipse dynamic menus org eclipse jface action contribution item non interesting contribution item contribution item

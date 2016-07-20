@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench.swt/src/org/eclipse/e4/ui/internal/workbench/swt/CSSConstants.java
+org eclipse internal workbench swt org eclipse workbench presentation engine constants string busy string presentation engine string focus string highlighted string content change

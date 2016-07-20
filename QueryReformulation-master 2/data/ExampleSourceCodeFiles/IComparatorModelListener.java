@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/IComparatorModelListener.java
+org eclipse jface tests viewers comparator model listener model changed comparator model change change

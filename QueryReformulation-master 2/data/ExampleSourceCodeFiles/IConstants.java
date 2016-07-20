@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/api/IConstants.java
+org eclipse tests api constants string fake fake buying beer club fake label hmmm who fake label real label unknown file name this file cool extension file extension known file name plugin xml project name unit testing project name

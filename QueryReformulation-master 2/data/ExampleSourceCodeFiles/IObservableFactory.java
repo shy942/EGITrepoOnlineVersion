@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.observable/src/org/eclipse/core/databinding/observable/masterdetail/IObservableFactory.java
+org eclipse core databinding observable masterdetail org eclipse core databinding observable observable generates link observable passed target instance param type target param type observable constructed factory type extend implement observable functional interface observable factory observable creates observable target object param target observable create observable target

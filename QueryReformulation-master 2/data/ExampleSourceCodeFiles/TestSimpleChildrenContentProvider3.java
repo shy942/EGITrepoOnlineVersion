@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.navigator/src/org/eclipse/ui/tests/navigator/extension/TestSimpleChildrenContentProvider3.java
+org eclipse tests navigator extension test simple children content provider test simple children content provider test simple children content provider

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.navigator/src/org/eclipse/ui/tests/navigator/InitialActivationTest.java
+org eclipse tests navigator org junit assert false org junit assert true org junit test initial activation test navigator test base initial activation test navigator instance test test initial activation expression exception false content service active true content service active

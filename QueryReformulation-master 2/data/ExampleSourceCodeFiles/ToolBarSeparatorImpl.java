@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/impl/ToolBarSeparatorImpl.java
+org eclipse model application menu impl org eclipse model application menu tool bar separator org eclipse emf ecore class user doc implementation model object tool bar separator user doc generated tool bar separator impl tool bar element impl tool bar separator user doc user doc generated tool bar separator impl user doc user doc generated override class static class menu package impl literals tool bar separator impl

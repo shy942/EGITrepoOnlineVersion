@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/views/markers/MarkerSupportView.java
+org eclipse views markers org eclipse internal views markers extended markers view marker support view view supports extensions marker support extension point marker support view extended markers view create instance receiver content generator param content generator marker content generator defined extension marker support extension marker support view string content generator content generator

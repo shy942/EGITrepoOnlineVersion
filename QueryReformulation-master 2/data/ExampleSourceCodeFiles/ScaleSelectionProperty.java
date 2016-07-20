@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ScaleSelectionProperty.java
+org eclipse jface internal databinding swt org eclipse swt org eclipse swt widgets scale scale selection property widget int value property scale selection property selection override get int value object source scale source selection override set int value object source scale source set selection override string string scale selection

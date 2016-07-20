@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/dialogs/AdaptableForwarder.java
+org eclipse internal dialogs org eclipse core runtime adapters org eclipse core runtime adaptable class wraps object forwards adapter calls returns object this maintain compatibility methods adaptable operation supports broader type adaptable forwarder adaptable object element create instance receiver param element adaptable forwarder object element element element override adapter class adapter adapters adapt element adapter

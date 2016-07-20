@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests/src/org/eclipse/e4/ui/tests/application/PostModelProcessor.java
+org eclipse tests application javax inject inject javax inject named org eclipse model application basic window post model processor abstract model processor impl inject named fragment contributed window window window override run window null window variables add post addition override string suffix post

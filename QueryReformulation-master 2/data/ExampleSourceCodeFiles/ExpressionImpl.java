@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/impl/ExpressionImpl.java
+org eclipse model application impl org eclipse model application impl application element impl org eclipse model application expression org eclipse emf ecore class user doc implementation model object expression user doc generated expression impl application element impl expression user doc user doc generated expression impl user doc user doc generated override class static class package impl literals expression impl

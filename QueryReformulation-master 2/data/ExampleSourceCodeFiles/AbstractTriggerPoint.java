@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/activities/ws/AbstractTriggerPoint.java
+org eclipse internal activities org eclipse activities trigger point abstract trigger point trigger point override equals object obj obj trigger point equals trigger point obj false override hash code hash code

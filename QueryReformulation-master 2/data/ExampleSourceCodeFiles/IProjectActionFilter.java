@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/extensions/org/eclipse/ui/IProjectActionFilter.java
+org eclipse describes attributes project acceptable values popup menu extension constants describe object target each identifies attribute clients expected implement org eclipse action filter project action filter resource action filter attribute indicating project nature code nature code attribute xml unconstrained string nature attribute indicating project open code open code attribute xml code true false code string open

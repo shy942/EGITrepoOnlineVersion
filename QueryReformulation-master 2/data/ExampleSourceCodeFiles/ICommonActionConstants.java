@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.navigator/src/org/eclipse/ui/navigator/ICommonActionConstants.java
+org eclipse navigator defines constants retargetable actions common viewer context menu noextend this intended extended clients noimplement this intended implemented clients common action constants open retargetable action string org eclipse navigator open

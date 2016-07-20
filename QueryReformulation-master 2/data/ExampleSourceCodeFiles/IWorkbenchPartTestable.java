@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench3/src/org/eclipse/ui/testing/IWorkbenchPartTestable.java
+org eclipse testing org eclipse swt widgets composite this methods introspection workbench parts instances calling link org eclipse core runtime adaptable adapter class link org eclipse workbench part site this intended implemented extended clients workbench part testable get link org eclipse swt widgets composite parts link org eclipse workbench part create part control composite method composite composite control

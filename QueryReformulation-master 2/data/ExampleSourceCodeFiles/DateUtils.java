@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.cssbridge/src/org/eclipse/e4/demo/cssbridge/util/DateUtils.java
+org eclipse demo cssbridge util java text parse exception java text simple date format java util date java util locale date utils string unknown simple date format simple date format yyyy locale date parse string string parse string parse exception exc null string string date null format

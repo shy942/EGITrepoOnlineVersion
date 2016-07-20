@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/keys/AlphabeticModifierKeyComparator.java
+org eclipse internal java util comparator org eclipse modifier key compares modifier lexicographically key alphabetic modifier key comparator comparator override compare object left object modifier key modifier key left modifier key left modifier key modifier key right modifier key modifier key left string compare modifier key right string

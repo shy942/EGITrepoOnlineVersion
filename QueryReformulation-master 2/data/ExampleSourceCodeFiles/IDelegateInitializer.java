@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench/src/org/eclipse/e4/ui/internal/workbench/IDelegateInitializer.java
+org eclipse internal workbench org eclipse model application application element delegate initializer initialize application element model object delegate

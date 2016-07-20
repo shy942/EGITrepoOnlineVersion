@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/AddChildAction.java
+org eclipse jface tests viewers interactive org eclipse jface tests viewers test element org eclipse jface tests viewers test model change add child action test selection action event kind add child action string label test browser browser label browser test model change add child action string label test browser browser event kind label browser event kind event kind override test element element element add child event kind

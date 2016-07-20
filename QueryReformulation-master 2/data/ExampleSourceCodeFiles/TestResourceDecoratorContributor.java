@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/decorators/TestResourceDecoratorContributor.java
+org eclipse tests decorators org eclipse core resources resource test resource decorator contributor test adaptable decorator contributor string resource string org eclipse tests decorators resource descorator test resource decorator contributor set expected element type resource set suffix

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/tweaklets/DummyTitlePathUpdater.java
+org eclipse internal tweaklets org eclipse swt widgets shell dummy title path updater title path updater override update title path shell window string path

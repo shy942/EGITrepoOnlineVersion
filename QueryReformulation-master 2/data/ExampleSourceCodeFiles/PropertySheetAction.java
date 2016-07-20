@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views/src/org/eclipse/ui/views/properties/PropertySheetAction.java
+org eclipse views properties org eclipse jface action action property sheet action action property sheet viewer viewer string create property sheet viewer action property sheet action property sheet viewer viewer string viewer viewer return unique action contribution managers override string return property sheet viewer property sheet viewer property sheet viewer property sheet viewer set unique contribution managers override set string

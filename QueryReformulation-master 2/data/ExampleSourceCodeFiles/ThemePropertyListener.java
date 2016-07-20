@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/themes/ThemePropertyListener.java
+org eclipse tests themes java util array list java util list org eclipse jface util property change listener org eclipse jface util property change event theme property listener property change listener array list events array list override property change property change event event events add event list events events

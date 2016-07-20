@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/keys/model/SchemeElement.java
+org eclipse internal model org eclipse core commands common not defined exception org eclipse jface bindings scheme scheme element model element param scheme element key controller param scheme init scheme scheme set scheme set model object scheme set name scheme name set description scheme description not defined exception print stack trace

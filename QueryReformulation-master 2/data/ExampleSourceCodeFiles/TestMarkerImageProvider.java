@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/adaptable/TestMarkerImageProvider.java
+org eclipse tests adaptable org eclipse core resources marker org eclipse internal ide marker image provider test marker image provider test marker image provider marker image provider override string image path marker marker icons gif

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/views/markers/QuickFixPropertyTester.java
+org eclipse internal views markers org eclipse core expressions property tester org eclipse ide quick fix property tester property tester quick object quick fix property tester property tester string quick fix create instance receiver quick fix property tester override test object receiver string property object args object expected value property equals marker help registry resolutions marker entry receiver marker false

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/dom/properties/converters/ICSSValueConverterColorConfig.java
+org eclipse css core dom properties converters org dom css color link value converter config manage format string link color version author href mailto angelo zerr gmail angelo value converter color config value converter config format value string color hexadecimal format value string color color name format value string color return format hexadecimal color color color format

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/commands/ExceptionThrowingHandler.java
+org eclipse tests commands org eclipse core commands abstract handler org eclipse core commands execution event org eclipse core commands execution exception author prakash exception throwing handler abstract handler override object execute execution event event execution exception execution exception

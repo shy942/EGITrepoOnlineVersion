@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/databinding/swt/IWidgetListProperty.java
+org eclipse jface databinding swt org eclipse core databinding property list list property org eclipse swt widgets widget link list property observing widget noimplement this intended implemented clients widget list property list property returns link observable list observing list property widget param widget source widget observable list observing list property widget observable list observe widget widget

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.swt/src/org/eclipse/e4/ui/internal/css/swt/definition/IThemesExtension.java
+org eclipse internal css swt definition themes extension add font definition string symbolic name add color definition string symbolic name

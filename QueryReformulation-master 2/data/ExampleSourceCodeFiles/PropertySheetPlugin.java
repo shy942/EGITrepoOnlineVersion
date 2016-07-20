@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.propertysheet/Eclipse UI Examples PropertySheet/org/eclipse/ui/examples/propertysheet/PropertySheetPlugin.java
+org eclipse examples propertysheet org eclipse plugin abstract plugin this top level property sheet abstract plugin additional plugins property sheet plugin abstract plugin default instance receiver property sheet plugin inst create property sheet plugin cache instance property sheet plugin inst null inst returns plugin singleton property sheet plugin instance property sheet plugin default inst

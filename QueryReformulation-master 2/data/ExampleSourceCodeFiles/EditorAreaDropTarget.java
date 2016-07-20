@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/dnd/EditorAreaDropTarget.java
+org eclipse tests dnd org eclipse swt graphics point editor area drop target workbench window drop target side param window param side editor area drop target workbench window provider provider side provider side side override string string drag operations for constant side editor area override point location drag operations point editor area page side

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.di/src/org/eclipse/e4/ui/di/AboutToShow.java
+org eclipse java lang annotation documented java lang annotation element type java lang annotation retention java lang annotation retention policy java lang annotation target use annotation provide menu elements list dynamically entries dynamic menu contribution item usage contribution literal about show show list menu element items org eclipse jface action menu listener documented target element type retention retention policy about show

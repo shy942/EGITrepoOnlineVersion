@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.propertysheet/Eclipse UI Examples PropertySheet/org/eclipse/ui/examples/propertysheet/IUserConstants.java
+org eclipse examples propertysheet this constants property sheet user constants string org eclipse examples propertysheet string string content outline string usr string

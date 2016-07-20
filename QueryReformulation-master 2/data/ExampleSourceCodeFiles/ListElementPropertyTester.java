@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/api/ListElementPropertyTester.java
+org eclipse tests api org eclipse core expressions property tester list element property tester property tester string override test object receiver string property object args object expected value list element list element receiver property equals expected value equals name false

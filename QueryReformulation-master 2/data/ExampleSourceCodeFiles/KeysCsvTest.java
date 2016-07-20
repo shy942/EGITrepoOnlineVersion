@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/keys/KeysCsvTest.java
+org eclipse tests org eclipse internal util util junit framework test case keys csv test test case test replace exception string src test replace all string dest test replace all string val util replace all src equals dest val test replace first exception string src hello string dest hello string val util replace all src equals dest val

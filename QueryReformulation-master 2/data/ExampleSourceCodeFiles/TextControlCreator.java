@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/fieldassist/TextControlCreator.java
+org eclipse jface fieldassist org eclipse swt widgets composite org eclipse swt widgets control org eclipse swt widgets text link control creator text controls this convenience creating text controls supplied decorated field deprecated clients link control decoration link decorated field deprecated text control creator control creator override control create control composite parent style text parent style

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/MPopupMenu.java
+org eclipse model application menu org eclipse model application context user doc representation model object popup menu user doc model doc this concrete representing context menus menus type generally managed code running application visible noimplement this intended implemented clients model doc model generated popup menu menu context popup menu

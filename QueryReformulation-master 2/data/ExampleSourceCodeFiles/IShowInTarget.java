@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/part/IShowInTarget.java
+org eclipse this show targets parts listed show prompter implement provide code adaptable adapter show target code org eclipse page layout add show part show target shows context target target check context selection elements relevant elements selection check context input param context context code true code context code false code show context context

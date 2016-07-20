@@ -1,0 +1,40 @@
+/***/
+package org.eclipse.e4.ui.workbench;
+
+import java.io.IOException;
+import org.eclipse.e4.ui.model.application.MApplication;
+import org.eclipse.emf.ecore.resource.Resource;
+
+/**
+* This handler allows clients load, create and save model resources
+*
+* @noimplement This interface is not intended to be implemented by clients.
+* @since 1.0
+*/
+public interface IModelResourceHandler {
+
+    /**
+* Loads an returns the most recent model that was persisted
+*
+* @return the most recent model state
+*/
+    public Resource loadMostRecentModel();
+
+    /**
+* Creates a resource with an app Model, used for saving copies of the main app model.
+*
+* @param theApp
+*            the application model to add to the resource
+* @return a resource with a proper save path with the model as contents
+*/
+    public Resource createResourceWithApp(MApplication theApp);
+
+    /**
+* Saves the model
+*
+* @throws IOException
+*             if storing fails
+*
+*/
+    public void save() throws IOException;
+}

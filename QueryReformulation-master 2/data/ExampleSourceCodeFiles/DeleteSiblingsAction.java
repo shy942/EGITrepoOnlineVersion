@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/DeleteSiblingsAction.java
+org eclipse jface tests viewers interactive org eclipse jface tests viewers test element delete siblings action test selection action all false delete siblings action string label test browser browser label browser all override test element element all element container delete children element container delete some children

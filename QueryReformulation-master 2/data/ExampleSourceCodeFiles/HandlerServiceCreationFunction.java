@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.core.commands/src/org/eclipse/e4/core/commands/internal/HandlerServiceCreationFunction.java
+org eclipse core commands internal org eclipse core contexts context function org eclipse core contexts context injection factory org eclipse core contexts eclipse context handler service creation function context function override object compute eclipse context context string context key context injection factory handler service impl context

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IWorkbenchPropertyPageMulti.java
+org eclipse org eclipse core runtime adaptable org eclipse jface preference preference page this link workbench property page addition support multiple selection workbench property page workbench property page multi preference page sets elements properties this method called property responds multiple selection param elements objects properties set elements adaptable elements

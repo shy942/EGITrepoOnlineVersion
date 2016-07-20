@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/actions/CommandNotMappedException.java
+org eclipse actions org eclipse core commands common command exception indicates action command mapping declaration updated include definition command not mapped exception command exception serial version param message command not mapped exception string message message param message param command not mapped exception string message throwable message

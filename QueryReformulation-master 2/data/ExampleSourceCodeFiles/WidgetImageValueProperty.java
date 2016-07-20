@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/WidgetImageValueProperty.java
+org eclipse jface internal databinding swt org eclipse jface databinding swt widget value property org eclipse swt graphics image widget image value property widget value property override object value type image override object get value object source get image value source override set value object source object set image value source image image get image value object source set image value object source image

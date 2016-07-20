@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/dialogs/CapabilityFilter.java
+org eclipse internal dialogs org eclipse jface viewers viewer org eclipse jface viewers viewer filter org eclipse activities workbench activity helper capability filter filter capabilities support filter items capability filter viewer filter create instance capability filter capability filter override select viewer viewer object parent element object element workbench activity helper filter item element

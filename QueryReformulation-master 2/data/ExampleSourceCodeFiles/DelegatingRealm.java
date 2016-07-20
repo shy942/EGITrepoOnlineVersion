@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.jface.tests.databinding.conformance/src/org/eclipse/jface/databinding/conformance/util/DelegatingRealm.java
+org eclipse jface databinding conformance util org eclipse core databinding observable realm realm delegate operations calls link current current status set consumer enable testing realm checks delegating realm current realm realm realm delegating realm realm realm realm realm override sync exec runnable runnable realm exec runnable override async exec runnable runnable realm async exec runnable

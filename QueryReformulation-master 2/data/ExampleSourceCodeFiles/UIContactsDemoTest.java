@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests/src/org/eclipse/e4/ui/tests/application/UIContactsDemoTest.java
+org eclipse tests application org eclipse model application basic part contacts demo test startup test override string org eclipse tests xmi contacts xmi override part first part part find element details view override part second part part find element contacts view

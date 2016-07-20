@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/services/CheckHandler.java
+org eclipse tests services org eclipse core commands abstract handler org eclipse core commands execution event check handler abstract handler override object execute execution event event null

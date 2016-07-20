@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/engine/CSSErrorHandlerImpl.java
+org eclipse css core impl engine org eclipse css core engine error handler basic implementation engine error handlers print stack trace exception throwed version author href mailto angelo zerr gmail angelo error handler impl error handler error handler error handler impl override error exception print stack trace

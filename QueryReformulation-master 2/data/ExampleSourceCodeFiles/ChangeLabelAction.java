@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/ChangeLabelAction.java
+org eclipse jface tests viewers interactive org eclipse jface tests viewers test element change label action test selection action change label action string label test browser browser label browser override test element element element set label element label changed

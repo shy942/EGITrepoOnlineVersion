@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IInputProvider.java
+org eclipse jface viewers interface common objects provide input input provider returns input input object object input

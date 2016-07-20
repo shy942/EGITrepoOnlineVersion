@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.forms/forms/org/eclipse/ui/tests/forms/util/FormToolkitTest.java
+org eclipse tests forms util junit framework test case org eclipse swt widgets display org eclipse forms widgets form toolkit form toolkit test test case verify calling dispose test dispose display display display current form toolkit toolkit form toolkit display toolkit dispose toolkit dispose

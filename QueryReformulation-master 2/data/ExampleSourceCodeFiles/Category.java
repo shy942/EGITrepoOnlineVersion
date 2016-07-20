@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.jface.examples.databinding/src/org/eclipse/jface/examples/databinding/model/Category.java
+org eclipse jface examples databinding model org eclipse jface examples databinding model object category model object string adventure adventures adventure set name string string object value string fire property change value add adventure adventure adventure adventures adventure append adventures adventure fire property change adventures null null adventure adventures adventures string name

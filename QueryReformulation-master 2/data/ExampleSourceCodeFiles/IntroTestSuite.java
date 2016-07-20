@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/intro/IntroTestSuite.java
+org eclipse tests intro junit framework test junit framework test suite intro test suite test suite test suite intro test suite intro test suite add test test suite intro part test add test test suite intro part test add test test suite intro test

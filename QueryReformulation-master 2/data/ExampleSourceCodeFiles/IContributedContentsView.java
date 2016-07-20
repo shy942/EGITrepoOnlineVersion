@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/part/IContributedContentsView.java
+org eclipse org eclipse workbench part this identify workbench views parts typically active supply contents access contributed current contents contributed contents view returns workbench contributed current contents view contributed current contents workbench part contributing part

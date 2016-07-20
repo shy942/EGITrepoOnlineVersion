@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.harness/src/org/eclipse/ui/tests/harness/util/ImageTests.java
+org eclipse tests harness util java util arrays junit framework assert org eclipse swt graphics image org eclipse swt graphics image data image tests image tests equals image image image data data image data image data data image data assert true arrays equals data data data data not equals image image image data data image data image data data image data assert false arrays equals data data data data

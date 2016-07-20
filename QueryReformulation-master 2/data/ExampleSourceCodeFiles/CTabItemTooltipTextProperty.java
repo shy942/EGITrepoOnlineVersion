@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/CTabItemTooltipTextProperty.java
+org eclipse jface internal databinding swt org eclipse swt custom tab item tab item tooltip text property widget string value property override string get string value object source tab item source tool tip text override set string value object source string tab item source set tool tip text override string string tab item tool tip text string

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/api/IWorkbenchTestSuite.java
+org eclipse tests api junit framework test junit framework test suite test workbench this suite created workaround problems running suites command workbench test suite test suite returns suite this required unit launcher test suite workbench test suite construct test suite workbench test suite add test test suite workbench test add test test suite workbench window test

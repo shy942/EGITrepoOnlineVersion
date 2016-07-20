@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.rcp.mail/src/org/eclipse/ui/examples/rcp/mail/ICommandIds.java
+org eclipse demo cssbridge command ids theme switch commands string org eclipse demo cssbridge empty css theme string org eclipse demo cssbridge blue css theme string org eclipse demo cssbridge green css theme string org eclipse demo cssbridge red css theme

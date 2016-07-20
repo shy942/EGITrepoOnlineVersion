@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/dynamicplugins/DynamicTestType.java
+org eclipse tests dynamicplugins dynamic test type type contributing property dynamic tests dynamic test type create instance receiver dynamic test type

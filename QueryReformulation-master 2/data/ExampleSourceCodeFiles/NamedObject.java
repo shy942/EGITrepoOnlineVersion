@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.forms.examples/src/org/eclipse/ui/forms/examples/internal/rcp/NamedObject.java
+org eclipse forms examples internal rcp named object string simple model model named object string set model simple model model model model string name string string name set name string model fire model changed object model listener

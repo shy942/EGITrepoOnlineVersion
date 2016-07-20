@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views.properties.tabbed/src/org/eclipse/ui/views/properties/tabbed/ITabItem.java
+org eclipse views properties tabbed org eclipse swt graphics image represents tab displayed tab list tabbed property sheet author anthony hunter tab item get icon image tab icon image tab image image get text label tab text label tab string text determine tab selected code true code tab selected selected determine tab indented code true code tab indented indented

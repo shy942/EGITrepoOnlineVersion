@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/serializers/CSSHTMLSerializerConfiguration.java
+org eclipse css core serializers serializer configuration link serializer filter attribute type widget input type text serializer configuration serializer configuration serializer configuration serializer configuration serializer configuration add attribute filter type

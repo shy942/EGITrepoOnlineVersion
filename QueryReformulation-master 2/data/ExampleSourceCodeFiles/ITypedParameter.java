@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.commands/src/org/eclipse/core/commands/ITypedParameter.java
+org eclipse core commands command parameter declared type this intended implemented implementors link parameter support parameter types typed parameter returns link parameter type command parameter code null code parameter declare type note parameter type returned undefined parameter type command parameter code null code parameter declare type parameter type parameter type

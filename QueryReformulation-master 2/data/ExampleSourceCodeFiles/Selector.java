@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench/src/org/eclipse/e4/ui/workbench/Selector.java
+org eclipse workbench org eclipse model application application element selector find element selector call element find matching elements param element element code true code matches code false code select application element element

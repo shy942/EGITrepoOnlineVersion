@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.browser/src/org/eclipse/ui/tests/browser/internal/DialogsTestCase.java
+org eclipse tests browser internal org eclipse swt widgets shell org eclipse platform org eclipse internal browser browser descriptor dialog junit framework test case dialogs test case test case shell shell platform workbench active workbench window shell test external browser dialog browser descriptor dialog bdd browser descriptor dialog shell test helper dialog bdd

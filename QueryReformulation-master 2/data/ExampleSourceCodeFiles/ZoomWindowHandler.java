@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench.renderers.swt.cocoa/src/org/eclipse/e4/ui/workbench/renderers/swt/cocoa/ZoomWindowHandler.java
+org eclipse workbench renderers swt cocoa javax inject named org eclipse core annotations execute org eclipse services service constants org eclipse swt internal cocoa window org eclipse swt widgets shell zoom window handler abstract window handler execute execute named service constants shell shell shell null window window shell view window window null window zoom window

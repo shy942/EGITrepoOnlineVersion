@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/dom/RectImpl.java
+org eclipse css core impl dom org dom css primitive value org dom css rect rect impl rect override primitive value bottom auto generated method stub unsupported operation exception override primitive value left auto generated method stub unsupported operation exception override primitive value right auto generated method stub unsupported operation exception override primitive value top auto generated method stub unsupported operation exception

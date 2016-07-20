@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/MToolControl.java
+org eclipse model application menu org eclipse model application contribution org eclipse model application basic trim element user doc representation model object tool control user doc model doc this concrete representing widget hosted trim item toolbar noimplement this intended implemented clients model doc model generated tool control tool bar element contribution trim element tool control

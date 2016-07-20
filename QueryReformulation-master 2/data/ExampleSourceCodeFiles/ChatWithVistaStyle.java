@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests.css.swt/tkuiTestsToRefactor/swt/test/org/akrogen/tkui/css/swt/examples/chat/ChatWithVistaStyle.java
+org akrogen tkui css swt examples chat org akrogen tkui css swt resources resources chat with vista style abstract chat example chat with vista style resources vista main string args chat with vista style test vista chat with vista style test vista display exception print stack trace

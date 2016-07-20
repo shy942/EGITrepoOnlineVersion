@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.swt/src/org/eclipse/e4/ui/css/swt/engine/CSSSWTApplyStylesListener.java
+org eclipse css swt engine org eclipse css core engine engine org eclipse swt org eclipse swt widgets display org eclipse swt widgets event org eclipse swt widgets listener add filter link display apply styles widget resized apply styles listener engine engine apply styles listener display display engine engine engine engine display add listener skin listener override handle event event event engine null engine apply styles event widget false

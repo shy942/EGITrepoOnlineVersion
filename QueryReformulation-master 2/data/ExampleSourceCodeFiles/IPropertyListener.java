@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IPropertyListener.java
+org eclipse interface listening property object this implemented clients workbench part add property listener property listener indicates property changed param source object property changed param prop property changed property ids generally defined constants source property changed object source prop

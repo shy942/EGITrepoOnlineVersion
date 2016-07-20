@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests/src/org/eclipse/e4/ui/tests/workbench/ExitHandler.java
+org eclipse tests workbench org eclipse core annotations execute org eclipse workbench workbench exit handler execute execute workbench workbench workbench close

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/operations/OperationsTestSuite.java
+org eclipse tests operations org junit runner run with org junit runners suite tests platform operations support run with suite suite suite classes operations test workbench operation history tests multi threaded operations tests workbench operation stress tests workspace operations tests operations test suite

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/dom/ExtendedCSSRule.java
+org eclipse css core dom org css sac selector org css sac selector list org dom css rule extend link rule selector property list extended rule rule return list link property link rule property list property list return list link selector link rule selector list selector list

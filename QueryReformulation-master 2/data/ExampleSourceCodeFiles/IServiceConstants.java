@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.services/src/org/eclipse/e4/ui/services/IServiceConstants.java
+org eclipse services noimplement this intended implemented clients service constants current selection this code null code selection string org eclipse selection due misleading nature field replaced link all clients change references code code noreference this field intended referenced clients deprecated string set contexts active string active contexts active context this code null code active context string active part active shell string active shell

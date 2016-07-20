@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/dialogs/TextEditorTestStub.java
+org eclipse tests dialogs stub access classes visible code org eclipse texteditor code for purpose testing text editor test stub prevent instantiation text editor test stub gives access instance find replace dialog find replace dialog instance find replace dialog test classes released packages find replace dialog find replace dialog shell parent shell find replace dialog parent shell

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/views/markers/internal/MarkerNode.java
+org eclipse views markers internal marker node handles category nodes concrete markers marker node get children node marker node marker node children return parent node code null code top level element marker node marker node parent return concrete node concrete return description receiver string string description get concrete marker receiver receiver concrete receiver concrete markers concrete marker concrete marker concrete representative

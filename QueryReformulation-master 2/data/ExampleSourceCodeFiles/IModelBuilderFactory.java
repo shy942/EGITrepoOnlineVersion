@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/e4/migration/IModelBuilderFactory.java
+org eclipse internal migration model builder factory application builder create application builder workbench memento reader reader window builder create window builder window reader window reader perspective builder create perspective builder perspective reader persp reader

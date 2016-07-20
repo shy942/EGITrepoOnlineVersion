@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IFontProvider.java
+org eclipse jface viewers org eclipse swt graphics font interface provide font representation element org eclipse jface viewers font decorator font provider provides font element param element element font element code null code font font font object element

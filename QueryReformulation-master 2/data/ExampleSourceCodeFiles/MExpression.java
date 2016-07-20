@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/MExpression.java
+org eclipse model application org eclipse model application application element user doc representation model object expression user doc model doc specific types expressions based these evaluate visibility enablement model elements noimplement this intended implemented clients model doc model true generated expression application element expression

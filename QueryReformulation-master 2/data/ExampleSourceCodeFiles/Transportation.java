@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.jface.examples.databinding/src/org/eclipse/jface/examples/databinding/model/Transportation.java
+org eclipse jface examples databinding model org eclipse jface examples databinding model object transportation model object string arrival time price set arrival time string string string value arrival time arrival time string fire property change arrivaltime value string string arrival time arrival time price price set price price price price price price fire property change price double price double price

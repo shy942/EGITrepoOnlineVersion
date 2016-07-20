@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.contacts/src/org/eclipse/e4/demo/contacts/handlers/SwitchThemeHandler.java
+org eclipse demo contacts handlers javax inject named org eclipse core annotations execute org eclipse css swt theme theme engine switch theme handler execute theme named contacts commands switchtheme themeid string theme theme engine engine engine set theme theme true

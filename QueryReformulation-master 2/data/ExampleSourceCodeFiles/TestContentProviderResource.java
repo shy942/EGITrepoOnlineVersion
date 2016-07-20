@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.navigator/src/org/eclipse/ui/tests/navigator/extension/TestContentProviderResource.java
+org eclipse tests navigator extension org eclipse core resources project org eclipse internal navigator resources workbench resource extension content provider test content provider resource resource extension content provider bad object reset test bad object false override object children object parent element bad object parent element project object object object object children parent element

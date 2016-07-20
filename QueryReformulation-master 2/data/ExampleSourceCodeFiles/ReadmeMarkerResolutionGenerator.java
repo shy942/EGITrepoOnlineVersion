@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.readmetool/Eclipse UI Examples Readme Tool/org/eclipse/ui/examples/readmetool/ReadmeMarkerResolutionGenerator.java
+org eclipse examples readmetool org eclipse core resources marker org eclipse marker resolution org eclipse marker resolution generator creates resolutions readme markers readme marker resolution generator marker resolution generator override marker resolution resolutions marker marker marker resolution add sentence resolution override resolutions marker marker true

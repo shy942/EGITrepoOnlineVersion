@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.emf.xpath/src/org/eclipse/e4/emf/internal/xpath/helper/JXPathEObjectInfo.java
+org eclipse emf internal xpath helper org eclipse emf ecore class org eclipse emf ecore structural feature path object info class class path object info class class class class structural feature property descriptors class all structural features array structural feature structural feature property descriptor string property name class structural feature property name atomic false

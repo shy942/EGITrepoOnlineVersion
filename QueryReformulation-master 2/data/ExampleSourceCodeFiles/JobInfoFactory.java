@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.progress/src/org/eclipse/e4/ui/progress/internal/JobInfoFactory.java
+org eclipse progress internal javax inject inject javax inject singleton org eclipse core runtime jobs job org eclipse core annotations creatable creatable singleton job info factory inject services services job info job info job enclosing job job info enclosing job services service progress manager services service finished jobs

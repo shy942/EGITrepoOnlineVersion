@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/MMenuItem.java
+org eclipse model application menu user doc representation model object item user doc model doc this base type handled direct menu items noimplement this intended implemented clients model doc model true generated menu item item menu element menu item

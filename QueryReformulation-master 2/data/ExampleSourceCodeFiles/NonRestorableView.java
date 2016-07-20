@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/ui/tests/session/NonRestorableView.java
+org eclipse tests session org eclipse swt widgets composite org eclipse view part non restorable view view part string org eclipse tests session non restorable view non restorable view override create part control composite parent override set focus

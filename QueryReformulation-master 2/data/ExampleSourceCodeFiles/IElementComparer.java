@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IElementComparer.java
+org eclipse jface viewers this compare elements viewer equality provide hash code element this client viewer equality criteria hash code implementation code equals code code hash code code implementations elements structured viewer set comparer element comparer compares elements equality param element param element equal equals object object returns hash code element param element element hash code calculated hash code element hash code object element

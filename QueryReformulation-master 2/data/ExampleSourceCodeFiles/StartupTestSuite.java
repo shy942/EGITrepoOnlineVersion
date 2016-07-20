@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests/src/org/eclipse/e4/ui/tests/application/StartupTestSuite.java
+org eclipse tests application org junit runner run with org junit runners suite run with suite suite suite classes model service test model service find test model service perspective find test model service insert test part service test selection service test event broker test headless contacts demo test headless photo demo test events test startup test suite

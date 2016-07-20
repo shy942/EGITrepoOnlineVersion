@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/Sorter.java
+org eclipse jface tests viewers interactive org eclipse jface viewers basic property constants org eclipse jface viewers viewer sorter sorter viewer sorter override sorter property object element string property basic property constants equals property

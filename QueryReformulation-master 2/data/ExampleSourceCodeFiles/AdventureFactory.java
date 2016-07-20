@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.jface.examples.databinding/src/org/eclipse/jface/examples/databinding/model/AdventureFactory.java
+org eclipse jface examples databinding model adventure factory catalog create catalog catalog category create category category adventure create adventure adventure lodging create lodging lodging transportation create transportation transportation account create account account cart create cart cart

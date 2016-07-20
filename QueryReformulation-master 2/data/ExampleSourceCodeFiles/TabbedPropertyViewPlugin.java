@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views.properties.tabbed/src/org/eclipse/ui/internal/views/properties/tabbed/TabbedPropertyViewPlugin.java
+org eclipse internal views properties tabbed org eclipse plugin abstract plugin common properties plug author anthony hunter tabbed property view plugin abstract plugin tabbed property view plugin plugin constructor tabbed property view plugin tabbed property view plugin plugin retrieve plug plug plug plug tabbed property view plugin plugin plugin

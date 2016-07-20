@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.cssbridge/src/org/eclipse/e4/demo/cssbridge/model/FolderType.java
+org eclipse demo cssbridge model folder type inbox inbox drafts drafts sent sent string folder type string override string string

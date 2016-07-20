@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.undo/Eclipse UI Examples Undo/org/eclipse/ui/examples/undo/preferences/PreferenceConstants.java
+org eclipse examples undo preferences constant definitions plug preferences preference constants string pref undo limit string pref show debug string pref confirm undo

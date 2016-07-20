@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/wizards/datatransfer/RecursiveImportListener.java
+org eclipse internal wizards datatransfer org eclipse core resources project org eclipse core runtime path org eclipse wizards datatransfer project configurator recursive import listener project created project project project configured project project project configurator configurator error happened path location exception

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views/src/org/eclipse/ui/views/properties/CategoriesAction.java
+org eclipse views properties org eclipse platform categories action property sheet action creates categories action this action hide categories properties param viewer viewer param categories action property sheet viewer viewer string viewer platform workbench help system set help properties help context ids toggles display categories properties override property sheet viewer property sheet deactivate cell editor checked categories hide categories

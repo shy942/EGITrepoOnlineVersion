@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.browser/src/org/eclipse/ui/internal/browser/macosx/SafariBrowserFactory.java
+org eclipse internal browser macosx org eclipse browser browser factory org eclipse browser web browser safari browser factory browser factory browser factory create browser override web browser create browser string string location string parameters safari browser location parameters

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/StyledTextEditableProperty.java
+org eclipse jface internal databinding swt org eclipse swt custom styled text styled text editable property widget boolean value property override get boolean value object source styled text source editable override set boolean value object source styled text source set editable override string string styled text editable

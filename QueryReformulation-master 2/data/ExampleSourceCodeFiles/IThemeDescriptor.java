@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/themes/IThemeDescriptor.java
+org eclipse internal themes java util map interface theme descriptors theme descriptor theme element definition string returns color overrides theme color definition color definition colors returns font overrides theme gradient definition font definition fonts returns data map theme data map this read map data

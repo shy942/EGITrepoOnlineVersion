@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/commands/ToggleStateHandler.java
+org eclipse tests commands org eclipse core commands abstract handler org eclipse core commands execution event org eclipse core commands execution exception org eclipse handlers handler util toggle state handler abstract handler override object execute execution event event execution exception value handler util toggle command state event command boolean value

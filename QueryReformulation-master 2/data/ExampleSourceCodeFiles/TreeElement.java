@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/decorators/TreeElement.java
+org eclipse tests decorators java util array list java util collection tree element element displayed test tree views tree element test element level tree element parent collection children array list tree element tree element parent parent null root level level parent level level string level string parent children add

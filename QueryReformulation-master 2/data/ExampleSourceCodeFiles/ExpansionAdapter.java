@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.forms/src/org/eclipse/ui/forms/events/ExpansionAdapter.java
+org eclipse forms events this adapter implementations methods code expansion listener code classes deal code expansion event code extend override methods interested expansion listener expansion event expansion adapter expansion listener sent link entered behaviour param event override expansion state changing expansion event sent link exited behaviour param event override expansion state changed expansion event

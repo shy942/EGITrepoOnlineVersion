@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.rcp.mail/src/org/eclipse/ui/examples/rcp/mail/Perspective.java
+org eclipse examples contributions rcp org eclipse page layout org eclipse perspective factory org eclipse examples contributions view info view perspective perspective factory override create initial layout page layout layout string editor area layout editor area layout set editor area visible true layout add standalone view info view true page layout editor area layout view layout info view set closeable false

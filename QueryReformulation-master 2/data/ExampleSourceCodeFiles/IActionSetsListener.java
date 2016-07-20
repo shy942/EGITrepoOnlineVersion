@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/menus/IActionSetsListener.java
+org eclipse internal menus org eclipse internal action sets event listener list active action sets this intended internal code org eclipse workbench code this eventually exist code org eclipse jface menus code action sets listener indicates list active action sets changed param event event carrying action sets code null code action sets changed action sets event event

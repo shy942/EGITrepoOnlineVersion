@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/decorators/TestUnadaptableDecoratorContributor.java
+org eclipse tests decorators decorator test unadaptaed contribution test unadaptable decorator contributor test adaptable decorator contributor string common string org eclipse tests decorators general adaptability off test unadaptable decorator contributor set suffix

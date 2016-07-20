@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.jface.tests.databinding/src/org/eclipse/core/tests/internal/databinding/conversion/StringToNumberParserIntegerTest.java
+org eclipse core tests internal databinding conversion org eclipse core internal databinding conversion string number parser string number parser integer test string number parser test harness override valid number number string number parser integer range number override number valid max integer integer override number valid min integer integer

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests/src/org/eclipse/e4/ui/tests/workbench/SWTResult.java
+org eclipse tests workbench java util array list class capture structure expected rendering partuclar model result class clazz string text array list kids array list result class class string text result children clazz class text text children null result result children kids add result

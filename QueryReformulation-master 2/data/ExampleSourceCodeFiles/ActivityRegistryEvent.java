@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/activities/ActivityRegistryEvent.java
+org eclipse internal activities activity registry event activity registry activity registry activity registry event activity registry activity registry activity registry null null pointer exception activity registry activity registry activity registry activity registry activity registry

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/data/dynamic_classes/workingSet/org/eclipse/ui/dynamic/DynamicWorkingSetUpdater.java
+org eclipse dynamic org eclipse working set org eclipse working set updater dynamic working set updater working set updater override add working set working set auto generated method stub override remove working set working set auto generated method stub false override working set working set auto generated method stub false override dispose auto generated method stub

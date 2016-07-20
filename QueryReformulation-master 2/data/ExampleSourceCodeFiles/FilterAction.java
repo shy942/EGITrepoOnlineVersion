@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views/src/org/eclipse/ui/views/properties/FilterAction.java
+org eclipse views properties org eclipse platform filter action property sheet action create filter action this action hide expert properties param viewer viewer param filter action property sheet viewer viewer string viewer platform workbench help system set help properties help context ids toggle display expert properties override property sheet viewer property sheet deactivate cell editor checked expert hide expert

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/services/StaticVarPropertyTester.java
+org eclipse tests services org eclipse core expressions property tester static var property tester property tester result false override test object receiver string property object args object expected value result

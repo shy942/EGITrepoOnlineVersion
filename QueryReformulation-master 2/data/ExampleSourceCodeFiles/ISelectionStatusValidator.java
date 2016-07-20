@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/dialogs/ISelectionStatusValidator.java
+org eclipse dialogs org eclipse core runtime status used selection dialogs validate selections selection status validator validates array elements returns status param selection elements validate status status validate object selection

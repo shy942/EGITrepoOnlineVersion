@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.navigator/src/org/eclipse/ui/internal/navigator/framelist/IFrameListHelpContextIds.java
+org eclipse internal navigator framelist org eclipse platform frame list help context ids string platform actions string action context string action context string action context string action context

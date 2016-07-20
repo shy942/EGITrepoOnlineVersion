@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/autotests/UITestCaseWithResult.java
+org eclipse tests autotests org eclipse tests harness util test case test case with result test case auto test abstract test logger result log test case with result string test name abstract test logger log test name result log log override test throwable string test name name test result result result test result perform test throwable result test result result log report result test name result

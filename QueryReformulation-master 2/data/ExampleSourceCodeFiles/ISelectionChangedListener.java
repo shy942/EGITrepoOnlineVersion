@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/ISelectionChangedListener.java
+org eclipse jface viewers listener notified viewer selection selection selection provider selection changed event functional interface selection changed listener notifies selection changed param event event object describing change selection changed selection changed event event

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IWorkbenchWindowActionDelegate.java
+org eclipse interface action contributed workbench window menu tool bar code action delegate code adds initialization method connecting delegate workbench window work workbench window action delegate action delegate disposes action delegate implementor unhook references garbage collection occur dispose initializes action delegate workbench window work param window window context delegate init workbench window window

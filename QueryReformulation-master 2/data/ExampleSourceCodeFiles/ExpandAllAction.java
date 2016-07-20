@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/ExpandAllAction.java
+org eclipse jface tests viewers interactive org eclipse jface viewers abstract tree viewer org eclipse jface viewers viewer expand all action test browser action expand all action string label test browser browser label browser override viewer viewer browser viewer viewer abstract tree viewer abstract tree viewer viewer expand all

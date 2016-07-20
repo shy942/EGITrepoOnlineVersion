@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench/src/org/eclipse/e4/ui/workbench/IResourceUtilities.java
+org eclipse workbench org eclipse emf common util this describes utility load image desc link param image desc noimplement this intended implemented clients resource utilities image desc loads image desc link param icon path image desc code null code image desc image descriptor from icon path

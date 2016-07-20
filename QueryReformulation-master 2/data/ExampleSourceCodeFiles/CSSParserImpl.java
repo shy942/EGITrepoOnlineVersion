@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/dom/parsers/CSSParserImpl.java
+org eclipse css core impl dom parsers org eclipse css core dom parsers parser link parser implementation version author href mailto angelo zerr gmail angelo parser impl abstract parser

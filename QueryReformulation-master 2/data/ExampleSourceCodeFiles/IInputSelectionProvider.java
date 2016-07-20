@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IInputSelectionProvider.java
+org eclipse jface viewers interface common objects provide input selection input selection provider input provider selection provider

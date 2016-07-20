@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/dom/AbstractCSSNode.java
+org eclipse css core impl dom org eclipse css core dom parsers parser abstract node abstract node abstract node parser parser returns null null

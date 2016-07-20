@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/part/IShowInTargetList.java
+org eclipse show sources provide additional entries show list targets provide implement provide code adaptable adapter show target list code show source show target show target list returns identifiers target parts target parts show targets identifiers target parts show target string show target ids

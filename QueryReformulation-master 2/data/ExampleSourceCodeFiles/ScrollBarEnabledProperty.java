@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ScrollBarEnabledProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets scroll bar scroll bar enabled property widget boolean value property override get boolean value object source scroll bar source enabled override set boolean value object source scroll bar source set enabled override string string scroll bar enabled

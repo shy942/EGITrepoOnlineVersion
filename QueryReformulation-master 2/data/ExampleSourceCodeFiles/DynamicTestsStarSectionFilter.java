@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/dynamic/filters/DynamicTestsStarSectionFilter.java
+org eclipse tests views properties tabbed dynamic filters org eclipse tests views properties tabbed dynamic model dynamic tests shape filter dynamic tests view author anthony hunter dynamic tests star section filter dynamic tests element section filter override applies shape dynamic tests shape shape dynamic tests shape equals shape

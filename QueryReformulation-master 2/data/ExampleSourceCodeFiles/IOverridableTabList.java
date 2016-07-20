@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views.properties.tabbed/src/org/eclipse/ui/views/properties/tabbed/IOverridableTabList.java
+org eclipse views properties tabbed represents list tabs used overrides tabs tabbed property registry list tabs overridable tab list content provider sections tab labels author anthony hunter overridable tab list returns list tabs list tabs tab item tabs select tab param list tabs select select tab

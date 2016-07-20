@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/dnd/AbstractDropTarget.java
+org eclipse internal dnd org eclipse swt graphics cursor org eclipse swt graphics rectangle abstract drop target drop target override drop override cursor cursor override rectangle snap rectangle null

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.core.commands.tests/src/org/eclipse/e4/core/commands/tests/CommandTestSuite.java
+org eclipse core commands tests org junit runner run with org junit runners suite org junit runners suite suite classes run with suite suite classes define commands test handler test command test suite command test suite

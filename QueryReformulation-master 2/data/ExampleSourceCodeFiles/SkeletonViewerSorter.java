@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.navigator/src/org/eclipse/ui/internal/navigator/sorters/SkeletonViewerSorter.java
+org eclipse internal navigator sorters org eclipse jface viewers viewer sorter skeleton viewer sorter viewer sorter singleton instance viewer sorter skeleton viewer sorter skeleton viewer sorter

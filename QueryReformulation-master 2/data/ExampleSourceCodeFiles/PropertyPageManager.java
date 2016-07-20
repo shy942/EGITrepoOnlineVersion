@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/dialogs/PropertyPageManager.java
+org eclipse internal dialogs org eclipse jface preference preference manager org eclipse internal workbench plugin org eclipse internal preferences workbench preference expression node this created avoid mentioning preferences context ideally face preference classes renamed generic tree navigation dialog property page manager preference manager constructor property page manager workbench plugin workbench preference expression node

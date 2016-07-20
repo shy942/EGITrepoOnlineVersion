@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.contributions/src/org/eclipse/ui/examples/contributions/view/RefreshInfoHandler.java
+org eclipse examples contributions view org eclipse core commands abstract handler org eclipse core commands execution event org eclipse core commands execution exception org eclipse handlers handler util request view refresh model refresh info handler abstract handler override object execute execution event event execution exception info view view info view handler util active part checked event view refresh null

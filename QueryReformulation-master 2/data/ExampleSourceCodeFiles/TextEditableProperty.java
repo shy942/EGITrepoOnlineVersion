@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/TextEditableProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets text text editable property widget boolean value property override get boolean value object source text source editable override set boolean value object source text source set editable override string string text editable

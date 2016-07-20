@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/dynamic/views/DynamicTestsTypeMapper.java
+org eclipse tests views properties tabbed dynamic views org eclipse views properties tabbed abstract type mapper type mapper nodes dynamic tests view author anthony hunter dynamic tests type mapper abstract type mapper override class map type object object object dynamic tests tree node dynamic tests tree node object dynamic tests element class map type object

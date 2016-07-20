@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ShellTextProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets shell shell text property widget string value property override string get string value object source shell source text override set string value object source string shell source set text null override string string shell text string

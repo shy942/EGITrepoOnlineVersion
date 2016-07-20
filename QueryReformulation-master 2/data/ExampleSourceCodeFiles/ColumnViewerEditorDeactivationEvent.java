@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/ColumnViewerEditorDeactivationEvent.java
+org eclipse jface viewers java util event object this event fired editor deactivated noextend this intended subclassed clients column viewer editor deactivation event event object serial version event type event type event editor canceled event editor saved param source column viewer editor deactivation event object source source

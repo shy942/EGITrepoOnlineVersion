@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IIndexableLazyContentProvider.java
+org eclipse jface viewers adds efficient element indexing support lazy content provider indexable lazy content provider lazy content provider find row parameter element set contents object under normal usage method implement code structured viewer set selection selection code efficiently param element element find contents served based element element find element object element

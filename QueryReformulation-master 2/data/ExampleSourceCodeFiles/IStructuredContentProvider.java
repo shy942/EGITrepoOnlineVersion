@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IStructuredContentProvider.java
+org eclipse jface viewers content providers structured viewers structured viewer structured content provider content provider returns elements display viewer input set element these elements presented rows table items list result modified viewer param input element input element array elements display viewer object elements object input element

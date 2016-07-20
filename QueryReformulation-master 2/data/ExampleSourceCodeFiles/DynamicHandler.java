@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/data/dynamic_classes/handlers/org/eclipse/ui/dynamic/handlers/DynamicHandler.java
+org eclipse dynamic handlers org eclipse core commands abstract handler org eclipse core commands execution event handler sets flag executes dynamic handler abstract handler override object execute execution event event null

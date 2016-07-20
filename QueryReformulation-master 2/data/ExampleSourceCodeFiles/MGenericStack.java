@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/MGenericStack.java
+org eclipse model application user doc representation model object generic stack user doc model doc this type defines base type stack type containers these containers expected selected element noimplement this intended implemented clients model doc model true generated generic stack element element container generic stack

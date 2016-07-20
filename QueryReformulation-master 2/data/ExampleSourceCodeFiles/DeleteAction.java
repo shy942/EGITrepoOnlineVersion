@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/DeleteAction.java
+org eclipse jface tests viewers interactive org eclipse jface tests viewers test element delete action test selection action delete action string label test browser browser label browser override test element element element container delete child element

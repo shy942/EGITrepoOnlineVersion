@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ToolItemEnabledProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets tool item tool item enabled property widget boolean value property override get boolean value object source tool item source enabled override set boolean value object source tool item source set enabled override string string tool item enabled

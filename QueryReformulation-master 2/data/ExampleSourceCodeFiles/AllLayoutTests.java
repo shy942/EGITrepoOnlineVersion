@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.forms/forms/org/eclipse/ui/tests/forms/layout/AllLayoutTests.java
+org eclipse tests forms layout junit framework test junit framework test suite all layout tests test suite test suite suite test suite org eclipse tests forms all layout tests unit suite add test suite test table wrap layout suite add test suite test column wrap layout unit suite

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/dom/properties/ICSSPropertyHandler2Delegate.java
+org eclipse css core dom properties link property handler delegate version author href mailto angelo zerr gmail angelo property handler delegate return link property handler call properties applied property handler property handler

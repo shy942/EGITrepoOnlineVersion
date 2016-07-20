@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/basic/MInputPart.java
+org eclipse model application basic org eclipse model application input user doc representation model object input part user doc model doc this subclass part tracking input while originally defined type editor turns regular part store input entry part persistent data map deprecated use part noimplement this intended implemented clients model doc model generated deprecated input part part input input part

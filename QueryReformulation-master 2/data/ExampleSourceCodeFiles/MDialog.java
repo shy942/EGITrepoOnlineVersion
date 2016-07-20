@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/basic/MDialog.java
+org eclipse model application basic user doc representation model object dialog user doc model doc subclass window representing dialog noimplement this intended implemented clients noreference this model element provisional model doc model generated dialog window dialog

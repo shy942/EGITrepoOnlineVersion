@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/registry/ViewParameterValues.java
+org eclipse internal registry java util hash map java util map org eclipse core commands parameter values org eclipse platform org eclipse views view descriptor provides parameter values view command view parameter values parameter values override map parameter values map values hash map view descriptor views platform workbench view registry views views length view descriptor view views values view label view values

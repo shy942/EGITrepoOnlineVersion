@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/dom/CSSPropertyImpl.java
+org eclipse css core impl dom org eclipse css core dom property org dom css value property impl property string signify property priority org dom css style declaration property priority string string string value name property property string test name property name equals ignore case test name creates property property impl string value override string name override value value override important override set important override set value value

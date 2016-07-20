@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.undo/Eclipse UI Examples Undo/org/eclipse/ui/examples/undo/Box.java
+org eclipse examples undo org eclipse swt graphics org eclipse swt graphics point box move hit test draw box location box constructs box defined diametrically opposing corners box set move box origin move point origin set origin origin origin width origin height draw box draw draw rectangle set position box set math min math min math max math max return true box point answer width box width answer height box height

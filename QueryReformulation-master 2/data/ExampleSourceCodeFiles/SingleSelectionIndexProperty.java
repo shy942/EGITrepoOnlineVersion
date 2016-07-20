@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/SingleSelectionIndexProperty.java
+org eclipse jface internal databinding swt single selection index property widget int value property param events single selection index property events events override set value object source object set value source null integer

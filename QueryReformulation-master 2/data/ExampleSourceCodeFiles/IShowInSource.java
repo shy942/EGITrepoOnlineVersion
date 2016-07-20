@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/part/IShowInSource.java
+org eclipse parts provide context show target provide implement provide code adaptable adapter show source code show target show source returns context code null code valid context context code null code show context show context

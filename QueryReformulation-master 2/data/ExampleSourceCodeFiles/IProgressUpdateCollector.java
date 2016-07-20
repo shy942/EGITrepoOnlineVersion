@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/progress/IProgressUpdateCollector.java
+org eclipse internal progress progress update collector content providers conform order progress view updater talk types content provider progress update collector refresh viewer refresh refresh elements param elements refresh object elements add elements param elements array job tree element add object elements remove elements param elements array job tree element remove object elements

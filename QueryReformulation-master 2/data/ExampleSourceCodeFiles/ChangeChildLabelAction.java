@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/ChangeChildLabelAction.java
+org eclipse jface tests viewers interactive org eclipse jface tests viewers test element change child label action test selection action change child label action string label test browser browser label browser override test element element test element child element first child child null child set label child label renamed child

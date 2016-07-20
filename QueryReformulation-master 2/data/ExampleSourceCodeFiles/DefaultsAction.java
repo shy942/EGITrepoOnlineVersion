@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views/src/org/eclipse/ui/views/properties/DefaultsAction.java
+org eclipse views properties org eclipse platform defaults action property sheet action create defaults action this action set properties values param viewer viewer param defaults action property sheet viewer viewer string viewer platform workbench help system set help properties help context ids reset properties values override property sheet deactivate cell editor property sheet reset properties

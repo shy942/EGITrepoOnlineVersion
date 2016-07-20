@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/AbstractEnabledHandler.java
+org eclipse internal org eclipse core commands abstract handler org eclipse core commands handler event abstract base enabled changing fires handler event abstract enabled handler abstract handler enabled true override enabled enabled set enabled enabled enabled enabled enabled enabled fire handler changed handler event true false

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/override/items/FileItem.java
+org eclipse tests views properties tabbed override items org eclipse swt graphics image org eclipse shared images org eclipse platform org eclipse tests views properties tabbed model file item file element selected element override tests view author anthony hunter file item information item override class element file override image image platform workbench shared images image shared images override string text file

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.services/src/org/eclipse/e4/ui/services/help/EHelpService.java
+org eclipse services provides services system help service string help context calls support system display context param context context display display help string context sets system object param element element register param context system invoked set help object element string context

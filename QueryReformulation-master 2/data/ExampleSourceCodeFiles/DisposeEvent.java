@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.observable/src/org/eclipse/core/databinding/observable/DisposeEvent.java
+org eclipse core databinding observable event denoting link observable object disposed dispose event observable event serial version object object creates dispose event object param source observable disposed dispose event observable source source override dispatch observables listener listener dispose listener listener handle dispose override object listener type

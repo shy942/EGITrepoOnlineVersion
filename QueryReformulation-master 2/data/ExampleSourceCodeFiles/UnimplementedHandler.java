@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench/src/org/eclipse/e4/ui/internal/workbench/handlers/UnimplementedHandler.java
+org eclipse internal workbench handlers org eclipse core annotations execute org eclipse workbench workbench unimplemented handler execute execute workbench workbench system err println this command handler implemented

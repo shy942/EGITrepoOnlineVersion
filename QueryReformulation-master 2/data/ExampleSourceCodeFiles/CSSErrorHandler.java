@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/engine/CSSErrorHandler.java
+org eclipse css core engine basic engine error handlers error handler callback method called engien errors param error exception

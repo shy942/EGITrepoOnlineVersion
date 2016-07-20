@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/api/workbenchpart/ViewWithCreateControlsException.java
+org eclipse tests api workbenchpart org eclipse swt widgets composite org eclipse view part view with create controls exception view part override create part control composite parent runtime exception this exception thrown intentionally error handling test override set focus

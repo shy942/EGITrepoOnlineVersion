@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/util/StatusHandler.java
+org eclipse jface util org eclipse core runtime status mechanism handle statuses face clients provide implementation change statuses handled face org eclipse jface util policy status handler org eclipse jface util policy set status handler status handler status handler show status param status status handle param title title status status status string title

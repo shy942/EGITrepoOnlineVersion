@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/model/Project.java
+org eclipse tests views properties tabbed model org eclipse swt graphics image org eclipse platform org eclipse ide shared images project element project string override image image platform workbench shared images image shared images

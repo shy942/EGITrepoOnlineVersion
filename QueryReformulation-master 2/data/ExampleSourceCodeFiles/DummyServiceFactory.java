@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/api/DummyServiceFactory.java
+org eclipse tests api org eclipse services abstract service factory org eclipse services service locator author prakash dummy service factory abstract service factory override object create class service interface service locator parent locator service locator locator service interface equals dummy service dummy service null

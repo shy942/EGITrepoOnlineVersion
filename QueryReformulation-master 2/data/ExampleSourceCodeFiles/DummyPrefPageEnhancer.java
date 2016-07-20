@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/tweaklets/DummyPrefPageEnhancer.java
+org eclipse internal tweaklets org eclipse swt widgets composite dummy pref page enhancer preference page enhancer override create contents composite parent override set selection object selection override perform override perform cancel override perform defaults

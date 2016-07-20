@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.observable/src/org/eclipse/core/internal/databinding/observable/IStalenessConsumer.java
+org eclipse core internal databinding observable functional interface staleness consumer param stale set stale stale

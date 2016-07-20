@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/dialogs/cpd/TableToolTip.java
+org eclipse internal dialogs cpd org eclipse swt graphics point org eclipse swt widgets event org eclipse swt widgets table org eclipse swt widgets table item tooltip based type contribution item cursor hovers table table tool tip name and description tool tip table table table tool tip table table table table table override object model element event event table item table item table item point event event table item null null table item data

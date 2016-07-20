@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/statushandlers/StatusHandlingTestSuite.java
+org eclipse tests statushandlers org junit runner run with org junit runners suite tests status handling facility run with suite suite suite classes status dialog manager test label provider wrapper test support tray test workbench status dialog manager impl test status handling test suite

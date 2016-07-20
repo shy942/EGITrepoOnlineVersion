@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/ide/dialogs/IElementFilter.java
+org eclipse internal ide dialogs internal noreference this intended referenced clients noimplement this intended implemented clients noextend this intended extended clients element filter org eclipse ide dialogs element filter

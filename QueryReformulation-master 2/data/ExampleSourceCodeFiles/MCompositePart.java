@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/basic/MCompositePart.java
+org eclipse model application basic org eclipse model application generic tile user doc representation model object composite part user doc model doc this part capable supporting internal structure order instances muct capable managing internal structure noimplement this intended implemented clients model doc model generated composite part part generic tile part sash container element composite part

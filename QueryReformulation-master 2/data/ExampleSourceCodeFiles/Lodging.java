@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.jface.examples.databinding/src/org/eclipse/jface/examples/databinding/model/Lodging.java
+org eclipse jface examples databinding model org eclipse jface examples databinding model object lodging model object string string description string description description set description string string object value description description string fire property change description value description set name string string object value string fire property change value string name

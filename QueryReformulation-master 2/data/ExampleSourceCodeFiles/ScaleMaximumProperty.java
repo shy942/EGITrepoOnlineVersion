@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ScaleMaximumProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets scale scale maximum property widget int value property override get int value object source scale source maximum override set int value object source scale source set maximum override string string scale maximum

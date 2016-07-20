@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.examples.job/src/org/eclipse/ui/examples/jobs/TestJobRule.java
+org eclipse examples jobs org eclipse core resources resource org eclipse core runtime jobs scheduling rule test job rule scheduling rules jobs sequential test job rule scheduling rule job order test job rule order job order order override scheduling rule rule rule resource rule test job rule true false override conflicting scheduling rule rule rule test job rule false test job rule rule job order job order return order rule job order job order

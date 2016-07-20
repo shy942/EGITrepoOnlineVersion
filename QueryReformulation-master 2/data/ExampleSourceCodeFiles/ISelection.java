@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/ISelection.java
+org eclipse jface viewers interface selection selection provider selection changed listener selection changed event selection returns selection empty code true code selection empty code false code empty

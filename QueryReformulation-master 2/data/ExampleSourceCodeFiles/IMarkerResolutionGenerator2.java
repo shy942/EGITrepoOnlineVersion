@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/extensions/org/eclipse/ui/IMarkerResolutionGenerator2.java
+org eclipse org eclipse core resources marker marker resolution generator implement code marker resolution generator code determine marker resolutions efficiently computing resolutions marker resolution generator marker resolution generator returns resolutions marker param marker marker code true code resolutions marker code false code resolutions marker marker

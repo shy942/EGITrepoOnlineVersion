@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests.css.swt/tkuiTestsToRefactor/swt/test/org/akrogen/tkui/css/swt/examples/chat/ChatWithStylesAppliedAtRuntime.java
+org akrogen tkui css swt examples chat chat with styles applied runtime abstract chat example chat with styles applied runtime null main string args chat with styles applied runtime chat chat with styles applied runtime chat display exception print stack trace

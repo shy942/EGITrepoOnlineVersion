@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/menus/ControlContributionRegistry.java
+org eclipse internal menus java util hash map java util map org eclipse core runtime configuration element registry string configuration element corresponds control contribution control contribution registry map string configuration element registry hash map clear registry clear add string configuration element element registry element configuration element string registry

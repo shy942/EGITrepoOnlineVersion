@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.swt/src/org/eclipse/e4/ui/internal/css/swt/definition/IThemeElementDefinitionOverridable.java
+org eclipse internal css swt definition theme element definition overridable string set value data value overridden set category string category set name string set description string description

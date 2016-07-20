@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.services/src/org/eclipse/e4/ui/services/IStylingEngine.java
+org eclipse services org dom css style declaration noimplement this intended implemented clients noreference this intended referenced clients styling engine service styling engine this instances service context service registry string styling engine name set classname object widget string classname set object widget string set classname and object widget string classname string style object widget style declaration style object widget

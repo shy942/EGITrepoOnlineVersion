@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.rcp/Eclipse RCP Tests/org/eclipse/ui/tests/rcp/util/EmptyView.java
+org eclipse tests rcp util org eclipse swt org eclipse swt widgets composite org eclipse swt widgets label org eclipse view part minimal view tests empty view view part string org eclipse tests rcp util empty view label label empty view override create part control composite parent label label parent label set text empty view override set focus label set focus

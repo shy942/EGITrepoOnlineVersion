@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/DirtyPerspectiveMarker.java
+org eclipse internal dirty perspective marker param dirty perspective marker string perspective string perspective override hash code perspective hash code override equals object dirty perspective marker perspective equals dirty perspective marker perspective false

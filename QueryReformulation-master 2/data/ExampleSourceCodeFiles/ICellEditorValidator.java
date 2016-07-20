@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/ICellEditorValidator.java
+org eclipse jface viewers validating cell editor input this implemented classes cell editor validators cell editor validator returns string indicating valid code null code valid code null code invalid result error message display user responsibility implementor fully format message returning param validated error message code null code indicating valid string valid object

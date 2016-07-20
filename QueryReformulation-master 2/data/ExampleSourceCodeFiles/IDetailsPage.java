@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.forms/src/org/eclipse/ui/forms/IDetailsPage.java
+org eclipse forms org eclipse swt widgets composite this implemented clients providing handle object types details part most life cycle form part selection listener selections master passed visible details part master details block details page form part part selection listener creates contents parent param parent parent create create contents composite parent

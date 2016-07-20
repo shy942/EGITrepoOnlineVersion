@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ToolItemTooltipTextProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets tool item tool item tooltip text property widget string value property override string get string value object source tool item source tool tip text override set string value object source string tool item source set tool tip text override string string tool item tool tip text string

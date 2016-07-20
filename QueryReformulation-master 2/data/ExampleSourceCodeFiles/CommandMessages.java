@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/menus/CommandMessages.java
+org eclipse internal menus org eclipse osgi util command messages string org eclipse internal menus messages load message values bundle file initialize messages command messages string tooltip accelerator

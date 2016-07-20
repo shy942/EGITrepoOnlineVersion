@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/dialogs/TaskListTestStub.java
+org eclipse tests dialogs stub access classes visible code org eclipse views tasklist code for purpose testing task list test stub prevent instantiation task list test stub gives access instance filters dialog filters dialog instance filters dialog test classes released packages filters dialog filters dialog shell parent shell filters dialog parent shell

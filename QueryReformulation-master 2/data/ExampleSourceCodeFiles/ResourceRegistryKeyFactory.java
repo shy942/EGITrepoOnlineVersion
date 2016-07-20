@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/resources/ResourceRegistryKeyFactory.java
+org eclipse css core resources org dom css value resource registry key factory object create key value resources helpers value key

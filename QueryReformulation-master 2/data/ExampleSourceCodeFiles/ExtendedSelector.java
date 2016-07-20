@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/sac/ExtendedSelector.java
+this copied org apache batik css engine sac org eclipse css core impl sac java util set org css sac selector org dom element this link org css sac selector extended selector selector tests selector matches element match element string pseudo returns specificity selector specificity fills set attribute names selector fill attribute set set string attr set

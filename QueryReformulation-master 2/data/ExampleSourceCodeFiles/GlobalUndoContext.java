@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.commands/src/org/eclipse/core/internal/commands/operations/GlobalUndoContext.java
+org eclipse core internal commands operations org eclipse core commands operations undo context operation context matches context unfiltered global history global undo context undo context override string label global undo context override matches undo context context true

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests/src/org/eclipse/e4/ui/tests/workbench/SimplePreProcessor.java
+org eclipse tests workbench simple pre processor simple processor override string descriptor simpleprocessor pre

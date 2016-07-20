@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/TreeColumnTooltipTextProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets tree column tree column tooltip text property widget string value property override string get string value object source tree column source tool tip text override set string value object source string tree column source set tool tip text override string string tree column tool tip text string

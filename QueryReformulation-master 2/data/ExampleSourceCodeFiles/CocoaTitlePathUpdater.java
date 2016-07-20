@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.cocoa/src/org/eclipse/ui/internal/cocoa/CocoaTitlePathUpdater.java
+org eclipse internal cocoa org eclipse swt internal cocoa string org eclipse swt internal cocoa window org eclipse swt widgets shell org eclipse internal tweaklets title path updater cocoa title path updater title path updater update title path shell window string path window null window disposed path null path window window window shell view window string file path string string string with path window set represented filename file path string

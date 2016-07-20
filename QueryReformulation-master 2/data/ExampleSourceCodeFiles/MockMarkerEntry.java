@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/views/markers/MockMarkerEntry.java
+org eclipse internal views markers mock class needed testing sort mock marker entry marker entry string param mock marker entry string null override equals object obj auto generated method stub equals mock marker entry obj

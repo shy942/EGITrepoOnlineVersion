@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/sections/InformationTwoSection.java
+org eclipse tests views properties tabbed sections information two section label section information two section label information word two

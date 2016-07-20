@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.browser/src/org/eclipse/ui/tests/browser/internal/WebBrowserTestsPlugin.java
+org eclipse tests browser internal org eclipse plugin abstract plugin web browser tests plugin web browser tests plugin abstract plugin web browser plugin string org eclipse browser tests singleton instance web browser tests plugin singleton create web browser tests plugin web browser tests plugin singleton returns singleton instance plugin org eclipse internal browser web browser plugin web browser tests plugin instance singleton

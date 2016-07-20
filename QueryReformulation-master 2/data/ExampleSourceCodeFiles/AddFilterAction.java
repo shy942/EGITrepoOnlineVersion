@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/AddFilterAction.java
+org eclipse jface tests viewers interactive org eclipse jface viewers structured viewer org eclipse jface viewers viewer add filter action test browser action add filter action string label test browser browser label browser override viewer viewer browser viewer viewer structured viewer structured viewer viewer add filter filter

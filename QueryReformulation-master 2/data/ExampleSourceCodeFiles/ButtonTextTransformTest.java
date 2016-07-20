@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests.css.swt/src/org/eclipse/e4/ui/tests/css/swt/ButtonTextTransformTest.java
+org eclipse tests css swt org eclipse swt org eclipse swt widgets button org eclipse swt widgets composite org eclipse swt widgets control button text transform test text transform test override control create control composite parent button parent override string widget name button override string text control control button control text override set text control control string string button control set text string

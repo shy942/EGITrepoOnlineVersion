@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/dom/ArrayNodeList.java
+org eclipse css core dom java util list org eclipse css core engine engine org dom node org dom node list array node list node list object elements engine engine array node list list elements engine engine elements array engine array node list object elements engine engine elements elements engine engine override length elements length override node item engine element elements

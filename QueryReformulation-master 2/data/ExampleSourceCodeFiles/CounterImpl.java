@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/dom/CounterImpl.java
+org eclipse css core impl dom org dom css counter counter impl counter override string identifier auto generated method stub unsupported operation exception override string list style auto generated method stub unsupported operation exception override string separator auto generated method stub unsupported operation exception

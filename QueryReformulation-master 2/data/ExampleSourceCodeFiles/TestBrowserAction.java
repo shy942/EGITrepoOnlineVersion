@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/TestBrowserAction.java
+org eclipse jface tests viewers interactive org eclipse jface action action test browser action action test browser browser test browser action string label test browser browser label browser browser returns test browser test browser browser browser

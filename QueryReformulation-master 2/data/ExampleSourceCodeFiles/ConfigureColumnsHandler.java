@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/views/markers/ConfigureColumnsHandler.java
+org eclipse internal views markers org eclipse core commands execution event org eclipse core commands handler org eclipse views markers marker view handler configure contents dialog handler handler opening contents configuration dialog configure columns handler marker view handler handler override object execute execution event event extended markers view view view event view null markers view columns dialog view open

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.observable/src/org/eclipse/core/databinding/observable/IDiff.java
+org eclipse core databinding observable org eclipse core databinding observable list list diff org eclipse core databinding observable map map diff org eclipse core databinding observable set set diff org eclipse core databinding observable value diff marker objects describe difference value diff list diff set diff map diff diff

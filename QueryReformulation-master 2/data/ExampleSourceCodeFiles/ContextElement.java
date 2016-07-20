@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/keys/model/ContextElement.java
+org eclipse internal model org eclipse core commands common not defined exception org eclipse core commands contexts context context element model element param context element key controller init context context set context set model object context set name context name set description context description not defined exception

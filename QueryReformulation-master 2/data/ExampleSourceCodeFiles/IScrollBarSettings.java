@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.swt/src/org/eclipse/e4/ui/internal/css/swt/dom/scrollbar/IScrollBarSettings.java
+org eclipse internal css swt dom scrollbar org eclipse swt graphics color scroll bar settings set scroll bar themed themed scroll bar themed color foreground color color background color set foreground color color color set background color color color set scroll bar width width scroll bar width set mouse near scroll scroll bar width width mouse near scroll scroll bar width set scroll bar border radius radius scroll bar border radius

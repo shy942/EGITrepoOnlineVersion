@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/themes/IEditable.java
+org eclipse internal themes theme elements editted user implement editable returns object editable object editable editable

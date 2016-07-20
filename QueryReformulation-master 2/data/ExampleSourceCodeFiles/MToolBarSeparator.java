@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/MToolBarSeparator.java
+org eclipse model application menu user doc representation model object tool bar separator user doc model doc this concrete represent separator toolbar noimplement this intended implemented clients model doc model generated tool bar separator tool bar element tool bar separator

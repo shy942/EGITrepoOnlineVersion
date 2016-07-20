@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/activities/IActivityListener.java
+org eclipse activities instance clients receive notification instances code activity code this implemented clients activity add activity listener activity listener activity remove activity listener activity listener activity listener notifies properties instance code activity code changed specific details code activity event code param activity event activity event guaranteed code null code activity changed activity event activity event

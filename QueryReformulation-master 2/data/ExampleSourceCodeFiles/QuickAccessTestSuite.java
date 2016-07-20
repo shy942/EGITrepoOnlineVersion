@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/quickaccess/QuickAccessTestSuite.java
+org eclipse tests quickaccess junit framework test junit framework test suite test areas property sheet quick access test suite test suite returns suite this required unit launcher test suite quick access test suite construct test suite quick access test suite add test test suite camel util test add test test suite quick access dialog test add test test suite shell closing test

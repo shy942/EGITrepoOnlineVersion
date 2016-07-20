@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench/src/org/eclipse/e4/ui/workbench/lifecycle/PreSave.java
+org eclipse workbench lifecycle java lang annotation documented java lang annotation element type java lang annotation retention java lang annotation retention policy java lang annotation target use annotation describe methods participate application lifecycle this method called model persisted documented target element type retention retention policy pre save

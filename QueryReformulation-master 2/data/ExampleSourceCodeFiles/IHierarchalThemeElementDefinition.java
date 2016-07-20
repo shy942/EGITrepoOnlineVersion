@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/themes/IHierarchalThemeElementDefinition.java
+org eclipse internal themes theme element theme element hierarchal theme element definition theme element definition return element element defaults element element defaults code null code element string defaults

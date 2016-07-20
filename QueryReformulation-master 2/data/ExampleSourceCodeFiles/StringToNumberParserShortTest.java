@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.jface.tests.databinding/src/org/eclipse/core/tests/internal/databinding/conversion/StringToNumberParserShortTest.java
+org eclipse core tests internal databinding conversion org eclipse core internal databinding conversion string number parser string number parser short test string number parser test harness override valid number number string number parser short range number override number valid max short short override number valid min short short

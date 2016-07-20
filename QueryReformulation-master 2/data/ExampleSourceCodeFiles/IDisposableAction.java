@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.progress/src/org/eclipse/e4/ui/progress/IDisposableAction.java
+org eclipse progress org eclipse jface action action interface workbench action disposable action action disposes action once disposed action this operation action disposed dispose

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.contacts/src/org/eclipse/e4/demo/contacts/model/ContactsRepositoryFactory.java
+org eclipse demo contacts model org eclipse demo contacts model internal card contacts repository contacts repository factory contacts repository card contacts repository contacts repository contacts repository

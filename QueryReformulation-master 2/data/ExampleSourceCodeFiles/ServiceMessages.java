@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.services/src/org/eclipse/e4/ui/internal/services/ServiceMessages.java
+org eclipse internal services org eclipse osgi util service messages string org eclipse internal services service messages event broker string string load message values bundle file reload messages reload messages initialize messages service messages

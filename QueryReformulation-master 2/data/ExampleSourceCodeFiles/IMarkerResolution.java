@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/extensions/org/eclipse/ui/IMarkerResolution.java
+org eclipse org eclipse core resources marker resolution marker when resolution typically eliminate marker marker resolution returns label indicating resolution label resolution string label runs resolution param marker marker resolve marker marker

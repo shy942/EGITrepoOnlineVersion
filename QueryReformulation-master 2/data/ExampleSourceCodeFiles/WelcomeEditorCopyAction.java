@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/ide/dialogs/WelcomeEditorCopyAction.java
+org eclipse internal ide dialogs org eclipse jface action action org eclipse internal ide workbench messages global copy action editor welcome editor copy action action welcome editor editor part welcome editor copy action welcome editor editor editor part editor set text workbench messages welcome editor copy text override editor part current text copy

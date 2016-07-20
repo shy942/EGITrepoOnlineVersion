@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IViewSite.java
+org eclipse primary view workbench workbench exposes implemention view sites intended implemented extended clients noimplement this intended implemented clients view site workbench part site returns action bars site views exclusive site action bars action bars action bars action bars returns secondary site code null code secondary site code null code workbench page view string string string secondary

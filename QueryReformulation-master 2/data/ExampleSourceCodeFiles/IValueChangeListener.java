@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.observable/src/org/eclipse/core/databinding/observable/value/IValueChangeListener.java
+org eclipse core databinding observable org eclipse core databinding observable observables listener listener observable values param type observed functional interface value change listener observables listener handles change observable event object locally method reused change notifications diff object referenced event immutable locally param event event handle value change value change event event

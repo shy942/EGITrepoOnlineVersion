@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/commands/EditorActionDelegate.java
+org eclipse tests commands org eclipse jface action action org eclipse jface viewers selection org eclipse editor action delegate org eclipse editor part editor action delegate editor action delegate executed false editor part null override set active editor action action editor part target editor target editor override action action executed true override selection changed action action selection selection auto generated method stub

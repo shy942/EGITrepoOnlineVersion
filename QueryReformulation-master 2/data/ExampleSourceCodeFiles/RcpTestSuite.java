@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.rcp/Eclipse RCP Tests/org/eclipse/ui/tests/rcp/RcpTestSuite.java
+org eclipse tests rcp org junit runner run with org junit runners suite test suite generic workbench headless unit plug test launcher configured application application run with suite suite suite classes platform test workbench advisor test workbench configurer test workbench window configurer test action bar configurer test workbench page test workbench save restore state test workbench listener test rcp test suite rcp test suite

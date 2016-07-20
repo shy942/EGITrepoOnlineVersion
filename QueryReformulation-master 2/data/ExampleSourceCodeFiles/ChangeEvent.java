@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.observable/src/org/eclipse/core/databinding/observable/ChangeEvent.java
+org eclipse core databinding observable generic change event denoting link observable object changed this event carry kind change occurred change event observable event serial version object object creates change event object param source observable changed change event observable source source override dispatch observables listener listener change listener listener handle change override object listener type

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench.renderers.swt.cocoa/src/org/eclipse/e4/ui/workbench/renderers/swt/cocoa/SWTCocoaEnhancerDelegate.java
+org eclipse workbench renderers swt cocoa org eclipse swt internal cocoa object cocoa enhancer delegate object cocoa enhancer delegate

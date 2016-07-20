@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.navigator/src/org/eclipse/ui/tests/navigator/m12/model/M2Resource.java
+org eclipse tests navigator model org eclipse core resources resource resource resource wrapper resource resource resource resource override resource wrapper model object resource resource core model object resource override string model

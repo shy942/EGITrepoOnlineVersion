@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/dnd/IWorkbenchWindowProvider.java
+org eclipse tests dnd org eclipse workbench window workbench window provider workbench window workbench window

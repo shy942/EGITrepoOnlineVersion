@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests/src/org/eclipse/e4/ui/tests/workbench/LayoutView.java
+org eclipse tests workbench javax inject inject org eclipse swt widgets composite layout view string bundleclass org eclipse tests org eclipse tests workbench layout view inject layout view composite parent parent shell layout true true

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.jface.examples.databinding/src/org/eclipse/jface/examples/databinding/model/SimpleOrder.java
+org eclipse jface examples databinding model java util date org eclipse jface examples databinding model object simple order model object order number date returns date date param set set date date returns order number order number order number param order number order number set set order number order number order number order number param param simple order date order number

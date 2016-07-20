@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/AddElementAction.java
+org eclipse jface tests viewers interactive org eclipse jface tests viewers test element org eclipse jface tests viewers test model change add element action test browser action add element action string label test browser browser label browser window add focus changed listener override test element element test element browser viewer input element add child test model change

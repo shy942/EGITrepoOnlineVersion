@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/IReorderListener.java
+org eclipse internal simple informing clients reordering object ordered list reorder listener object moved clients react param obj param index reorder object obj index

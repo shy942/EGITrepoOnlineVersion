@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/bindings/ISchemeListener.java
+org eclipse jface bindings instance code scheme listener code clients receive notification instances code scheme code this implemented clients scheme add scheme listener scheme listener scheme remove scheme listener scheme listener scheme event scheme listener notifies attributes instance code scheme code changed specific details code scheme event code param scheme event scheme event guaranteed code null code scheme changed scheme event scheme event

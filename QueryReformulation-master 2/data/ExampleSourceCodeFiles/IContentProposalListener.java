@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/fieldassist/IContentProposalListener.java
+org eclipse jface fieldassist this listen notifications link content proposal adapter content proposal listener content proposal accepted param proposal accepted content proposal proposal accepted content proposal proposal

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/TestComparator.java
+org eclipse jface tests viewers java util comparator test comparator comparator comparisons override compare object arg object arg comparisons arg string compare arg string

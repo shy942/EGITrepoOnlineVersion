@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/views/tasklist/IMarkerConstants.java
+org eclipse views tasklist this defines constants marker properties attributes org eclipse core resources marker marker constants string org eclipse tasklist string priority image string complete image string resource name string container name string and location

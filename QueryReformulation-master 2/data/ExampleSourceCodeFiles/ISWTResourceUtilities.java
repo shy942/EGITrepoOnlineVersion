@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench.swt/src/org/eclipse/e4/ui/workbench/swt/util/ISWTResourceUtilities.java
+org eclipse workbench swt util org eclipse workbench resource utilities org eclipse jface resource image descriptor org eclipse swt graphics image resource utilities resource utilities image descriptor low level utility stamp adornment image param adorn image adorned null param adornment image adorn adorned image adorn adornment null image adorn image image adorn image adornment

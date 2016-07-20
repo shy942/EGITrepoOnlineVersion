@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/part/IWorkbenchPartOrientation.java
+org eclipse org eclipse jface window window org eclipse swt workbench part orientation defines orientation type implement orientation assumed org eclipse swt org eclipse swt org eclipse swt window default orientation workbench part orientation return orientation window default orientation window default orientation orientation

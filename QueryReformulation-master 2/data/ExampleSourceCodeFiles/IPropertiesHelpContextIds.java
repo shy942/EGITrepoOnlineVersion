@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views/src/org/eclipse/ui/views/properties/IPropertiesHelpContextIds.java
+org eclipse views properties org eclipse platform properties help context ids string platform actions string properties categories action context string properties defaults action context string properties filter action context string properties copy action context string properties pin action context views string property sheet view context

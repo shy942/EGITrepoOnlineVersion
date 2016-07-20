@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/dialogs/EmptyPropertyPage.java
+org eclipse internal dialogs org eclipse swt org eclipse swt widgets composite org eclipse swt widgets control org eclipse dialogs property page filler nodes property dialog suppplied empty property page property page creates empty composite content override control create contents composite parent composite parent

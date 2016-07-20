@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench/src/org/eclipse/e4/ui/internal/workbench/Trackable.java
+org eclipse internal workbench org eclipse core contexts eclipse context org eclipse core contexts run and track trackable run and track eclipse context tracking context participating true trackable eclipse context context tracking context context

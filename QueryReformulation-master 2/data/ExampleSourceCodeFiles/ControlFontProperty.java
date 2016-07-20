@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ControlFontProperty.java
+org eclipse jface internal databinding swt org eclipse jface databinding swt widget value property org eclipse swt graphics font org eclipse swt widgets control control font property widget value property override object value type font override object get value object source control source font override set value object source object control source set font font override string string control font font

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/menus/IMenuStateIds.java
+org eclipse jface menus org eclipse core commands named handle state ids org eclipse jface commands radio state org eclipse jface commands toggle state state identifiers understood items renderers items command interpreted menu renderer clients implement extend menu state ids named handle state ids indicating widget style command presented menus tool bars this instance link toggle state link radio state string

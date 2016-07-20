@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/sections/ResourceSection.java
+org eclipse tests views properties tabbed sections resource section label section resource section label common resource elements project folder file

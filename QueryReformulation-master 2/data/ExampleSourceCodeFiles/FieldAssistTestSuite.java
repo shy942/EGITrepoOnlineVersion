@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/fieldassist/FieldAssistTestSuite.java
+org eclipse tests fieldassist org junit runner run with org junit runners suite tests platform operations support run with suite suite suite classes field assist test field assist test suite

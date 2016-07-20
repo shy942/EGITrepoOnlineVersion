@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/zoom/ZoomTestSuite.java
+org eclipse tests zoom junit framework test junit framework test suite test suite test zooming behavior eclipse zoom test suite test suite returns suite this required unit launcher test suite zoom test suite construct test suite zoom test suite add test test suite zoomed view activate test add test test suite zoomed editor close test add test test suite zoomed view close test add test test suite show view test add test test suite open editor test

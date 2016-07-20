@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/IHeapStatusConstants.java
+org eclipse internal preference constants heap status heap status constants preference key update interval milliseconds string heap status update interval preference key max heap string heap status max

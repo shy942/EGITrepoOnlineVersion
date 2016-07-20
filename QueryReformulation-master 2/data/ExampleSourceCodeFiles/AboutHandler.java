@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.contacts/src/org/eclipse/e4/demo/contacts/handlers/AboutHandler.java
+org eclipse demo contacts handlers javax inject named org eclipse core annotations execute org eclipse services service constants org eclipse jface dialogs message dialog org eclipse swt widgets shell about handler execute execute named service constants shell shell message dialog open information shell contacts this contacts demo

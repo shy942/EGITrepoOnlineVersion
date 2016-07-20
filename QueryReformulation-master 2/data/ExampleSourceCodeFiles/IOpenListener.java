@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IOpenListener.java
+org eclipse jface viewers listener notified open events viewers open listener notifies open event param event event object describing open event open open event event

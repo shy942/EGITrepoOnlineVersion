@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding/src/org/eclipse/core/internal/databinding/validation/StringToDoubleValidator.java
+org eclipse core internal databinding validation org eclipse core internal databinding conversion string number parser string double validator abstract string number validator double double double double double double param converter string double validator number format converter converter converter override range number number string number parser double range number

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/action/IMenuListener2.java
+org eclipse jface action menu listener informed menu hide menu manager add menu listener menu listener menu listener notifies listener menu hidden menu manager param manager menu manager menu about hide menu manager manager

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/stress/OpenCloseTestSuite.java
+org eclipse tests stress junit framework test junit framework test suite test areas open close test suite test suite returns suite this required unit launcher test suite open close test suite construct test suite open close test suite add test test suite open close test

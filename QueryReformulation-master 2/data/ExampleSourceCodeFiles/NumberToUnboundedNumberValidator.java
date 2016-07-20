@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding/src/org/eclipse/core/internal/databinding/validation/NumberToUnboundedNumberValidator.java
+org eclipse core internal databinding validation org eclipse core internal databinding conversion number number converter validates number fit unbounded number big integer big decimal class thread safe number unbounded number validator number number validator param converter number unbounded number validator number number converter converter converter null null override range number number true

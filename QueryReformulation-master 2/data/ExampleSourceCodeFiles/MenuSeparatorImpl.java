@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/impl/MenuSeparatorImpl.java
+org eclipse model application menu impl org eclipse model application menu menu separator org eclipse emf ecore class user doc implementation model object separator user doc generated menu separator impl menu element impl menu separator user doc user doc generated menu separator impl user doc user doc generated override class static class menu package impl literals menu separator impl

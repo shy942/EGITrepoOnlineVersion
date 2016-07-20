@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/model/IContributionService.java
+org eclipse model instances service capable providing standard mechanisms clients order display generally work contributions workbench contribution service contribution type property dialog string property contribution type preferences string preference return comparator ordering contributions user param contribution type type contribution code null code comparator contribution comparator comparator for string contribution type

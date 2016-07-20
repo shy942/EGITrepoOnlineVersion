@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.forms/src/org/eclipse/ui/forms/IPartSelectionListener.java
+org eclipse forms org eclipse jface viewers selection form parts implement notified form selection form part part selection listener called changed selection param selection source param selection selection selection changed form part selection selection

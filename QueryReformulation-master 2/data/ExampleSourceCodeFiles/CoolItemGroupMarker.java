@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/part/CoolItemGroupMarker.java
+org eclipse org eclipse jface action group marker group marker editor action bars delineate cool item groups use marker contributing tool bar editor action bar this instantiated intended subclassed noextend this intended subclassed clients cool item group marker group marker create group marker group code null code empty string group item note cool item group markers group unique param group name group cool item group marker string group name group name

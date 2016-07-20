@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/impl/GenericStackImpl.java
+org eclipse model application impl org eclipse model application generic stack org eclipse model application element org eclipse emf ecore class user doc implementation model object generic stack user doc generated generic stack impl element element container impl generic stack user doc user doc generated generic stack impl user doc user doc generated override class static class package impl literals generic stack impl

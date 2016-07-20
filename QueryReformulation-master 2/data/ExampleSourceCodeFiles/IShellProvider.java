@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/window/IShellProvider.java
+org eclipse jface window org eclipse swt widgets shell interface objects shell this opening child windows object open child shells shell provider constructor object shell provider dynamically choose child shells opened shell provider returns current shell null this change time cached current shell null shell shell

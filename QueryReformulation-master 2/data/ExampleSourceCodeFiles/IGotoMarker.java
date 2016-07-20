@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/ide/IGotoMarker.java
+org eclipse ide org eclipse core resources marker adapter editors editor reveal position marker goto marker sets cursor selection editor reveal position marker param marker marker marker marker marker

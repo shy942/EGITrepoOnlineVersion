@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.navigator/src/org/eclipse/ui/tests/navigator/jst/ICompressedNode.java
+org eclipse tests navigator jst org eclipse jface viewers tree content provider org eclipse swt graphics image provides simple manipulate rendering java elements format friendlier web projects compressed node image display node image image text label display node string label param delegate content provider content provider children provide children children delegate content provider object children tree content provider delegate content provider

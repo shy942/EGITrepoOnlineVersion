@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IShowEditorInput.java
+org eclipse shows editor input used editor opened existing editor input matches opened editors optionally implement editor opportunity input represents subset editor content show editor input shows input represents subset editor content param editor input editor input editor input editor input editor input

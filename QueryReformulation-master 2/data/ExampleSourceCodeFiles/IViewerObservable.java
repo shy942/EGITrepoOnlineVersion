@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/databinding/viewers/IViewerObservable.java
+org eclipse jface databinding viewers org eclipse core databinding observable observable org eclipse jface viewers viewer link observable observing face viewer viewer observable observable returns underlying viewer observable viewer viewer viewer

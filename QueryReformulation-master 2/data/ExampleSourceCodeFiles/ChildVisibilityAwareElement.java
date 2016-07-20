@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/dom/ChildVisibilityAwareElement.java
+org eclipse css core dom org dom node list elements implement contract subset children styled node ensure children styled appropriately required child visibility aware element node list visible child nodes

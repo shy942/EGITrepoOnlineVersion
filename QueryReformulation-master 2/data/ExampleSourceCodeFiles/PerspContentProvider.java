@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/dialogs/PerspContentProvider.java
+org eclipse internal dialogs org eclipse jface viewers structured content provider org eclipse perspective registry persp content provider structured content provider override object elements object element element perspective registry perspective registry element perspectives null

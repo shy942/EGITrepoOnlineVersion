@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/dom/CSSRuleListImpl.java
+org eclipse css core impl dom java util array list java util list org dom css rule org dom css rule list rule list impl rule list list rule rule list rule list impl rule list array list rule rule list methods override length rule list size override rule item position rule list position additional index out bounds exception add rule rule rule list add rule index out bounds exception remove position rule list remove position

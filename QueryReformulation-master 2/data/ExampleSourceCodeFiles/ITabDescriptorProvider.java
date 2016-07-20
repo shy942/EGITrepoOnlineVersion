@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.views.properties.tabbed/src/org/eclipse/ui/views/properties/tabbed/ITabDescriptorProvider.java
+org eclipse views properties tabbed org eclipse jface viewers selection org eclipse workbench part represents tab descriptor provider tabbed property view author anthony hunter tab descriptor provider returns tab descriptors param workbench selection param selection current selection descriptors tab descriptor tab descriptors workbench part selection selection

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IDecorationContext.java
+org eclipse jface viewers decoration context additional label decorator this intended implemented clients label decorator decoration context get property code null code property exist context param property property property code null code object property string property return properties exist context set properties values properties exist context string properties

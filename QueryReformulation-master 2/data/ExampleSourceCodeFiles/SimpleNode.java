@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.jface.examples.databinding/src/org/eclipse/jface/examples/databinding/contentprovider/test/SimpleNode.java
+org eclipse jface examples databinding contentprovider test org eclipse core databinding observable set observable set this object randomly generated children simple node string node name observable set children simple node string node name observable set children node name node name children children string node name node name observable set children children

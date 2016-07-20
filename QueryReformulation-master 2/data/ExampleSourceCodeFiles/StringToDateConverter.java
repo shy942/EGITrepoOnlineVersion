@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding/src/org/eclipse/core/internal/databinding/conversion/StringToDateConverter.java
+org eclipse core internal databinding conversion java util date org eclipse core databinding conversion converter convert string java util date respecting current locale string date converter date conversion support converter override object convert object source parse source string override object from type string override object type date

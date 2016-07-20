@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IInPlaceEditor.java
+org eclipse interface editor parts represent place style editor this intended implemented extended clients org eclipse editor descriptor open place noimplement this intended implemented clients place editor editor part informs place editor system file editing deleted application source deleted informs place editor system file editing moved renamed application param input place editor input source changed place editor input input

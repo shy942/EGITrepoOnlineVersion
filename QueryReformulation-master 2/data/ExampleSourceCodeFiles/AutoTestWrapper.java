@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/autotests/AutoTestWrapper.java
+org eclipse tests autotests junit framework test case auto test wrapper test case auto test test abstract test logger log auto test wrapper auto test test abstract test logger result log test name test test log result log override test throwable string test name test name test result result result test result test perform test throwable result test result log report result test name result

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/api/DummyService.java
+org eclipse tests api org eclipse internal services nestable author prakash dummy service nestable active active active override activate active true override deactivate active false

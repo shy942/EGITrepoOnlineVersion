@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.swt/src/org/eclipse/e4/ui/internal/css/swt/definition/IColorAndFontProvider.java
+org eclipse internal css swt definition org eclipse swt graphics org eclipse swt graphics font data color and font provider font data font string symbolic name color string symbolic name

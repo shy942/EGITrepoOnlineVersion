@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/action/DummyContributionManager.java
+org eclipse jface tests action org eclipse jface action contribution manager dummy contribution manager testing does populate widgets dummy contribution manager contribution manager override update force ignore

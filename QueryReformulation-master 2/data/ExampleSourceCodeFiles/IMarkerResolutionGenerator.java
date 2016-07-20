@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/extensions/org/eclipse/ui/IMarkerResolutionGenerator.java
+org eclipse org eclipse core resources marker creates resolutions marker when resolution typically eliminate marker marker resolution generator returns resolutions marker empty param marker marker resolutions marker marker resolution resolutions marker marker

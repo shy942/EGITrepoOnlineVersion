@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.cssbridge/src/org/eclipse/e4/demo/cssbridge/model/TreeItem.java
+org eclipse demo cssbridge model java util array list java util list tree item tree item parent list tree item children object tree item tree item parent object parent parent object value tree item parent parent add child tree item child children null children array list tree item children add child list tree item children children override string string null string

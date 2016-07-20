@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ButtonTextProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets button button text property widget string value property override string get string value object source button source text override set string value object source string button source set text null override string string button text string

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/css2/CSS2RGBColorImpl.java
+org eclipse css core css org dom css primitive value org dom css color simple link color implementation version author href mailto angelo zerr gmail angelo color impl color primitive value red primitive value green primitive value blue color impl red primitive value impl green primitive value impl blue primitive value impl override primitive value blue blue override primitive value green green override primitive value red red

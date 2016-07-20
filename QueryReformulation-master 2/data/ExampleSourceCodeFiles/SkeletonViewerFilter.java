@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.navigator/src/org/eclipse/ui/internal/navigator/filters/SkeletonViewerFilter.java
+org eclipse internal navigator filters org eclipse jface viewers viewer org eclipse jface viewers viewer filter viewer filter prevent null values link common filter descriptor create filter skeleton viewer filter viewer filter singleton instance skeleton viewer filter skeleton viewer filter skeleton viewer filter override select viewer viewer object parent element object element true

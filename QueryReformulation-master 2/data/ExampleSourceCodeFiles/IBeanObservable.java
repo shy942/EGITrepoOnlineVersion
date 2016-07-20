@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.beans/src/org/eclipse/core/databinding/beans/IBeanObservable.java
+org eclipse core databinding beans java beans property descriptor org eclipse core databinding observable observing provides access details bean observables this meant implemented clients bean observable observing property descriptor property observed code null code runtime time construction observable property descriptor property descriptor

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/preferences/AbstractIntegerListener.java
+org eclipse internal preferences abstract integer listener abstract property listener dynamic property map map value string property abstract integer listener attach dynamic property map map string property value value value property property map null map remove listener map map map null map add listener string property override update handle value property util map property value param handle value

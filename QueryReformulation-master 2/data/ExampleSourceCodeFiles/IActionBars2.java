@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IActionBars2.java
+org eclipse org eclipse jface action cool bar manager interface extention code action bars code additional cool bar manager noimplement this intended implemented clients action bars action bars returns cool bar manager note clients add remove items returned cool bar manager responsible calling code update action bars code propagated workbench cool bar manager cool bar manager cool bar manager

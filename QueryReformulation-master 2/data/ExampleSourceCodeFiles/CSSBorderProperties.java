@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/dom/properties/CSSBorderProperties.java
+org eclipse css core dom properties org dom css primitive value border properties version author href mailto angelo zerr gmail angelo border properties return border color primitive value color set border color set color primitive value color return border width width set border width set width width return border style string style set border style set style string style

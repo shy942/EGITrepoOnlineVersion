@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.observable/src/org/eclipse/core/databinding/observable/IDecoratingObservable.java
+org eclipse core databinding observable interface observables decorate observables noimplement this intended implemented clients clients subclass classes framework implement note direct implementers framework broken future releases methods decorating observable observable observable observable decorates observable decorated

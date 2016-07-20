@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench.renderers.swt.cocoa/src/org/eclipse/e4/ui/workbench/renderers/swt/cocoa/CloseDialogHandler.java
+org eclipse workbench renderers swt cocoa javax inject named org eclipse core annotations execute org eclipse services service constants org eclipse swt org eclipse swt widgets shell author prakash grprakash gmail close dialog handler execute object execute named service constants shell shell perform close enabled shell style shell close null

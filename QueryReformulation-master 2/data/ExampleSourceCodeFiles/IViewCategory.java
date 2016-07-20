@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/views/IViewCategory.java
+org eclipse views org eclipse core runtime path represents categorization views this intended implemented clients view category return views contained category never code null code empty views contained category view descriptor views return category never code null code string return human readable view category never code null code label string label return categories path segments path correspond category ids path path path

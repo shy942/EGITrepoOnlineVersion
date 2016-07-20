@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/SliderMaximumProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets slider slider maximum property widget int value property override get int value object source slider source maximum override set int value object source slider source set maximum override string string slider maximum

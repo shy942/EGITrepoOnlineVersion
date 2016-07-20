@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/TableSingleSelectionIndexProperty.java
+org eclipse jface internal databinding swt org eclipse swt org eclipse swt widgets table table single selection index property single selection index property table single selection index property selection default selection override get int value object source table source selection index override set int value object source table source deselect all table source set selection override string string table selection index

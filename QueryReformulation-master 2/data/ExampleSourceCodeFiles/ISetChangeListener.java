@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding.observable/src/org/eclipse/core/databinding/observable/set/ISetChangeListener.java
+org eclipse core databinding observable set org eclipse core databinding observable observables listener listener observable sets param type elements set observed functional interface set change listener observables listener handle change observable set event object locally method reused change notifications diff object referenced event immutable locally param event event handle set change set change event event

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/sac/ParserNotFoundException.java
+org eclipse css core sac exception parser retrieved parser not found exception runtime exception serial version parser not found exception throwable throwable throwable

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.forms.examples/src/org/eclipse/ui/forms/examples/internal/rcp/TypeTwo.java
+org eclipse forms examples internal rcp author dejan change template generated type comment window preferences java code generation code comments type two named object string flag string flag flag flag param type two string flag flag flag flag flag flag flag flag flag flag set flag flag flag flag model fire model changed object model listener set flag flag flag flag model fire model changed object model listener

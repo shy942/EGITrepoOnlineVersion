@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/util/ImageSupport.java
+org eclipse internal util java net org eclipse jface resource image descriptor org eclipse platform image support image descriptor image descriptor string path url bundle utility find platform path image descriptor create from url image support

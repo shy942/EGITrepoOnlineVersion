@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.jface.tests.databinding/src/org/eclipse/core/tests/internal/databinding/beans/IBeanExtension.java
+org eclipse core tests internal databinding beans bean extension bean

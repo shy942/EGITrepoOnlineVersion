@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.forms/src/org/eclipse/ui/internal/forms/widgets/IFocusSelectable.java
+org eclipse internal forms widgets java util hashtable org eclipse swt graphics rectangle focus selectable focus selectable hashtable string object resource table set focus hashtable string object resource table direction rectangle bounds

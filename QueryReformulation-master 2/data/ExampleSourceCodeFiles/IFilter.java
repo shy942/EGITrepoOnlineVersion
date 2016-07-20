@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IFilter.java
+org eclipse jface viewers interface filters can accept reject items functional interface filter determines object passes filter param test object compare filter code true code object accepted filter select object test

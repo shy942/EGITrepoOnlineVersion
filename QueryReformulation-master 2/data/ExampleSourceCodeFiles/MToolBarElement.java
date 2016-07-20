@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/MToolBarElement.java
+org eclipse model application menu org eclipse model application element user doc representation model object tool bar element user doc model doc this placeholder mixed type toolbar noimplement this intended implemented clients model doc model true generated tool bar element element tool bar element

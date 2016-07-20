@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/ICheckStateListener.java
+org eclipse jface viewers listener notified checked items checkbox viewers check state changed event check state listener notifies change checked element param event event object describing change check state changed check state changed event event

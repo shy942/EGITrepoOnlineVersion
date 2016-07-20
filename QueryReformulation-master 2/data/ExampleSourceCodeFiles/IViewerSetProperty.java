@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/databinding/viewers/IViewerSetProperty.java
+org eclipse jface databinding viewers org eclipse core databinding property set set property org eclipse jface viewers viewer link set property observing face viewer noimplement this intended implemented clients viewer set property set property returns link viewer observable set observing set property viewer param viewer source viewer observable set observing set property viewer viewer observable set observe viewer viewer

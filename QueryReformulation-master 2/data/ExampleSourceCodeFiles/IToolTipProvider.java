@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/IToolTipProvider.java
+org eclipse jface viewers interface provide tool element org eclipse jface viewers cell label provider tool tip provider get text displayed tool object param element element tool link string code null code text display string tool tip text object element

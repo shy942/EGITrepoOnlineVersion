@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.navigator/src/org/eclipse/ui/tests/navigator/m12/model/M1Project.java
+org eclipse tests navigator model org eclipse core resources project org eclipse core runtime adaptable org eclipse core runtime platform project container adaptable project project project project override adapter class adapter platform adapter manager adapter adapter

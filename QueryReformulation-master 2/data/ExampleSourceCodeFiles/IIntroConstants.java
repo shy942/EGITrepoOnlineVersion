@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/intro/IIntroConstants.java
+org eclipse internal intro contains constants intro implementation intro constants view intro host string org eclipse internal introview

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding/src/org/eclipse/core/internal/databinding/conversion/NumberToFloatConverter.java
+org eclipse core internal databinding conversion ibm icu text number format converts number float class thread safe number float converter number number converter param number format param type param primitive number float converter number format number format class type primitive number format type primitive float float override number convert number number string number parser float range number float number value null

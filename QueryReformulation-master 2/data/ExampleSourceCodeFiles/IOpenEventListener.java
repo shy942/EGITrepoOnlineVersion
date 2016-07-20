@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/util/IOpenEventListener.java
+org eclipse jface util org eclipse swt events selection event listener open events generated selection selection depending user preferences usage pre open strategy handler open strategy control handler add open listener open event listener handle open selection event code handle open event pre open strategy functional interface open event listener called selection selection occurs depending user preference param selection event handle open selection event

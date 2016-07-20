@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.browser/src/org/eclipse/ui/internal/browser/SystemBrowserDescriptor.java
+org eclipse internal browser system browser descriptor browser descriptor override string name messages pref system browser override string location null override string parameters null override delete ignore override working copy false override browser descriptor working copy working copy null override equals object obj obj system browser descriptor

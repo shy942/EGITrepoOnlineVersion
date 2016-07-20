@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/views/markers/GroupFilterConfigurationArea.java
+org eclipse internal views markers org eclipse views markers filter configuration area group filter configuration area filter configuration area special group level settings link marker field filter group group filter configuration area filter configuration area apply group param group apply group marker field filter group group initialise group param group initialize from group marker field filter group group

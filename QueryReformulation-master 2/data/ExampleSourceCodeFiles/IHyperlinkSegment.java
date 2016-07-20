@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.forms/src/org/eclipse/ui/internal/forms/widgets/IHyperlinkSegment.java
+org eclipse internal forms widgets org eclipse swt graphics color org eclipse swt graphics org eclipse swt graphics rectangle hyperlink segment focus selectable string href string text paint focus color color selected rectangle repaint region intersects rectangle rect

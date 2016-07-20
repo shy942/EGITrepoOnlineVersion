@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/dialogs/NavigatorTestStub.java
+org eclipse tests dialogs stub access classes visible code org eclipse views navigator code for purpose testing navigator test stub prevent instantiation navigator test stub gives access instance goto resource dialog goto resource dialog instance goto resource dialog test classes released packages goto resource dialog goto resource dialog shell parent shell resource resources goto resource dialog parent shell resources

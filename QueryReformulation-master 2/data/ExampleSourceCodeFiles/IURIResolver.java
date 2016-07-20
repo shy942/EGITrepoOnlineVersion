@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/util/resources/IURIResolver.java
+org eclipse css core util resources interface resolver resolve resolver return uri resolved param uri string resolve string uri

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/dnd/EditorDragSource.java
+org eclipse tests dnd org eclipse editor part org eclipse internal dnd test drop location editor drag source test drag source editor idx folder param editor param folder editor drag source editor idx folder editor idx editor idx folder folder editor part part page editors editor idx override string string string title editor editor idx folder title folder title override drag test drop location target drag operations drag part target folder

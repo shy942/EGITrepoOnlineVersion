@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/sac/ExtendedDocumentHandler.java
+org eclipse css core sac java util stack org css sac document handler extends link document handler root node extended document handler document handler return root node object node root set node stack param statck set node stack stack object statck

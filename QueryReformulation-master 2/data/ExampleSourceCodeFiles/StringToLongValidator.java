@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding/src/org/eclipse/core/internal/databinding/validation/StringToLongValidator.java
+org eclipse core internal databinding validation org eclipse core internal databinding conversion string number parser validates string format range string long validator abstract string number validator long long long long long long param converter string long validator number format converter converter converter override range number number string number parser long range number

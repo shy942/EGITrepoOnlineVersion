@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.di/src/org/eclipse/e4/ui/di/Persist.java
+org eclipse java lang annotation documented java lang annotation element type java lang annotation retention java lang annotation retention policy java lang annotation target parts annotation methods tag method performs save operation this annotation applied method multiple methods tagged annotation called persist data documented target element type retention retention policy persist

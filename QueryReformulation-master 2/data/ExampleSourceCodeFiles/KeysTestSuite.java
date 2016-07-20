@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/keys/KeysTestSuite.java
+org eclipse tests org junit runner run with org junit runners suite tests areas key support platform run with suite suite suite classes binding interactions test binding manager test binding persistence test bug test bug test bug test bug test bug test bug test bug test bug test bug test bug test bug test bug test keys csv test bug test bug test keys preference model test keys test suite

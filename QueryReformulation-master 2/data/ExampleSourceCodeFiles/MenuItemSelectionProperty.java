@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/MenuItemSelectionProperty.java
+org eclipse jface internal databinding swt org eclipse swt org eclipse swt widgets menu item menu item selection property widget boolean value property menu item selection property selection override get boolean value object source menu item source selection override set boolean value object source menu item source set selection override string string menu item selection boolean

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.ui.forms.examples/src/org/eclipse/ui/forms/examples/internal/rcp/SimpleFormEditorInput.java
+org eclipse forms examples internal rcp org eclipse forms examples internal form editor input simple form editor input form editor input simple model model simple form editor input string model simple model simple model model model

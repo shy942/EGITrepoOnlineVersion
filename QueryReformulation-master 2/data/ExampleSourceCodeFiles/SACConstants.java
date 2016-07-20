@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/SACConstants.java
+org eclipse css core constants parsers version author href mailto angelo zerr gmail angelo constants org flute parser parser parser string org flute parser parser org flute parser parser parser string org flute parser parser steadystate css parser parser parser string steadystate css parser parser org apache batik css parser parser parser string org apache batik css parser parser

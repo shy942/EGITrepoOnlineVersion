@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/util/ILogger.java
+org eclipse jface util org eclipse core runtime status mechanism log errors face clients provide implementation change errors logged face org eclipse jface util policy log org eclipse jface util policy set log logger functional interface logger logs status param status status log log status status

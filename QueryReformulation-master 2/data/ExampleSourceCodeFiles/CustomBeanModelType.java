@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.jface.tests.databinding/src/org/eclipse/jface/tests/databinding/scenarios/CustomBeanModelType.java
+org eclipse jface tests databinding scenarios custom bean model type string property name object object class type param object param property name param type custom bean model type object object string property name class type object object property name property name type type string property name property name object object object class type type

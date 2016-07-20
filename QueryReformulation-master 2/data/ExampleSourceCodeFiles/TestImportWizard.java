@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/datatransfer/TestImportWizard.java
+org eclipse tests datatransfer org eclipse jface viewers structured selection org eclipse jface wizard wizard org eclipse import wizard org eclipse workbench test import wizard wizard import wizard test import wizard override perform finish auto generated method stub false override init workbench workbench structured selection selection auto generated method stub

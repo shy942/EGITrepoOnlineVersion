@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/MDirectMenuItem.java
+org eclipse model application menu org eclipse model application contribution user doc representation model object direct menu item user doc model doc this concrete represent menu item invoked selected supplied contribution asked execute selected noimplement this intended implemented clients model doc model generated direct menu item menu item contribution direct menu item

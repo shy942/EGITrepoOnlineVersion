@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/views/markers/ConfigureContentsDialogHandler.java
+org eclipse internal views markers org eclipse core commands execution event org eclipse core commands handler org eclipse views markers marker view handler configure contents dialog handler handler opening contents configuration dialog configure contents dialog handler marker view handler handler override object execute execution event event extended markers view view view event view null view open filters dialog

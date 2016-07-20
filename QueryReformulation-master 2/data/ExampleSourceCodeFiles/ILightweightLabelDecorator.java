@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/ILightweightLabelDecorator.java
+org eclipse jface viewers code lightweight label decorator code decorator decorates prefix suffix overlay image image text management code label decorator code lightweight label decorator base label provider calculates decorations based element param element element decorate param decoration decoration set decorate object element decoration decoration

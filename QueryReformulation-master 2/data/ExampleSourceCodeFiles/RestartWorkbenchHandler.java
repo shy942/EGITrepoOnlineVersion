@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/handlers/RestartWorkbenchHandler.java
+org eclipse internal handlers org eclipse core commands abstract handler org eclipse core commands execution event org eclipse platform provide handler restart workbench command restart workbench handler abstract handler override object execute execution event event platform workbench restart true null

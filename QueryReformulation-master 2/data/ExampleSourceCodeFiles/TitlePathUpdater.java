@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/tweaklets/TitlePathUpdater.java
+org eclipse internal tweaklets org eclipse swt widgets shell org eclipse internal tweaklets tweaklets tweak key tweaklet update shell active editor changed title path updater tweak key tweaklets tweak key title path updater tweaklets set default dummy title path updater update title path shell window string path

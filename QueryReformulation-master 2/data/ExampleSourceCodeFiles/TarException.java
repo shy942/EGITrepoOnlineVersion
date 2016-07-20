@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/wizards/datatransfer/TarException.java
+org eclipse internal wizards datatransfer exception generated encountering corrupted tar files tar exception exception generated serial version serial version constructs tar exception detail string tar exception constructs tar exception detail string param detail string tar exception string constructs tar exception detail string param detail string param tar exception string throwable

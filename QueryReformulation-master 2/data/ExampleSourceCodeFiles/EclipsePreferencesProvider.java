@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.swt/src/org/eclipse/e4/ui/css/swt/dom/preference/EclipsePreferencesProvider.java
+org eclipse css swt dom preference org eclipse core runtime preferences eclipse preferences org eclipse css core dom element provider org eclipse css core engine engine org dom element eclipse preferences provider element provider override element element object element engine engine element eclipse preferences eclipse preferences element eclipse preferences element engine null

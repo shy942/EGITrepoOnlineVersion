@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.views.properties.tabbed/src/org/eclipse/ui/tests/views/properties/tabbed/model/Information.java
+org eclipse tests views properties tabbed model org eclipse swt graphics image org eclipse shared images org eclipse platform information element information string override image image platform workbench shared images image shared images

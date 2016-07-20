@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/api/IPageLayoutTest.java
+org eclipse tests api org eclipse tests harness util empty perspective org eclipse tests harness util test case test cases code page layout code page layout test test case page layout test string test name test name test get descriptor empty perspective set last perspective null open test window empty perspective equals empty perspective empty perspective last perspective

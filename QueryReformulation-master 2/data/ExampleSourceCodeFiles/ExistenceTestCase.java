@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.browser/src/org/eclipse/ui/tests/browser/internal/ExistenceTestCase.java
+org eclipse tests browser internal org eclipse internal browser web browser plugin junit framework test case existence test case test case test plugin exists not null web browser plugin instance

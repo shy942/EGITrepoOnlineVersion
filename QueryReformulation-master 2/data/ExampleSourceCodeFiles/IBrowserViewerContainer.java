@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.browser/src/org/eclipse/ui/internal/browser/IBrowserViewerContainer.java
+org eclipse internal browser org eclipse action bars browser viewer container closes container true container closed close returns action bars container action bars container code null code action bars action bars opens url external browser internal browser failed create param url open external browser string url

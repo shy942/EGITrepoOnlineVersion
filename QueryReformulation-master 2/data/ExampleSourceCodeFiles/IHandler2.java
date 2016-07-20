@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.commands/src/org/eclipse/core/commands/IHandler2.java
+org eclipse core commands extend handler provide context enabled requests clients link abstract handler provide listener mechanism abstract handler handler handler called framework handler update enabled param evaluation context evaluate may code null code handler query model this context cached set enabled object evaluation context

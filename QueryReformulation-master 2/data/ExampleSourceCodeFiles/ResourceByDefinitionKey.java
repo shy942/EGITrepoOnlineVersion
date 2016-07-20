@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.swt/src/org/eclipse/e4/ui/css/swt/resources/ResourceByDefinitionKey.java
+org eclipse css swt resources resource definition key object key resource definition key object key key key override hash code key hash code override equals object obj obj resource definition key key equals resource definition key obj key override string string key string

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.forms/src/org/eclipse/ui/forms/IDetailsPageProvider.java
+org eclipse forms dynamic computation key based input object situations object key loaded objects type depending details part master details block details page provider returns key object assumption provider object types position cast object type call methods determine matching key param object input object key object object page key object object returns key this method dynamic alternative registering details param key key matching key details page page object key

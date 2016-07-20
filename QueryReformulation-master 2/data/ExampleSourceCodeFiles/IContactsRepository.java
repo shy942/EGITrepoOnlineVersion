@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.contacts/src/org/eclipse/e4/demo/contacts/model/IContactsRepository.java
+org eclipse demo contacts model org eclipse core databinding observable list observable list contacts repository observable list all contacts add contact contact contact remove contact contact contact

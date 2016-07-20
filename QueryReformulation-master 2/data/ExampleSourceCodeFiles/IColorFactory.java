@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/themes/IColorFactory.java
+org eclipse themes org eclipse swt graphics factory color this optionally themes extension point color definitions example usage code color definition label custom color custom color color factory implementor color factory color definition code color factory create color color this code null code create color

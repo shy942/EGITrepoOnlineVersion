@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/viewers/ITreePathLabelProvider.java
+org eclipse jface viewers extension link label provider path element decorated tree path label provider base label provider updates label element param label label update param element path path element decorated update label viewer label label tree path element path

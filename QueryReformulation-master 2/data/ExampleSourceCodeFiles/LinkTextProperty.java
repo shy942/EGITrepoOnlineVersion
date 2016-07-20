@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/LinkTextProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets link link text property widget string value property override string get string value object source link source text override set string value object source string link source set text null override string string link text string

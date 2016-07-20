@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/multieditor/MultiEditorTestSuite.java
+org eclipse tests multieditor junit framework test junit framework test suite multi editor test suite test suite test suite multi editor test suite construct test suite multi editor test suite add test suite abstract multi editor test add test suite multi editor test

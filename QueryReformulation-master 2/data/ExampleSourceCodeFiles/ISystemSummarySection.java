@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/about/ISystemSummarySection.java
+org eclipse java print writer extensions code org eclipse system summary extensions code provide implementation provide constructor instance created time system summary created system summary section method puts system summary configuration details log param writer puts system summary write print writer writer

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/ISaveableFilter.java
+org eclipse filter selecting saveables workbench save all org eclipse jface window shell provider org eclipse jface operation runnable context saveable filter saveable filter indicate saveable matches filter param saveable saveable tested param parts parts saveable this list parts saveable matches filter select saveable saveable workbench part parts

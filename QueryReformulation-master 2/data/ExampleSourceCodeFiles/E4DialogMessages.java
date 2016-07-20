@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.dialogs/src/org/eclipse/e4/ui/dialogs/textbundles/E4DialogMessages.java
+org eclipse dialogs textbundles org eclipse osgi util based org eclipse internal workbench messages dialog messages string org eclipse dialogs textbundles messages string filtered tree accessible listener clear button string filtered tree clear tool tip string filtered tree filter message string filtered tree accessible listener filtered load message values bundle file reload messages reload messages initialize messages dialog messages

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/ControlEnabledProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets control control enabled property widget boolean value property override get boolean value object source control source enabled override set boolean value object source control source set enabled override string string control enabled

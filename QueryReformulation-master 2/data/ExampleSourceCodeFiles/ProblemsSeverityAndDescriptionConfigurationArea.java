@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/views/markers/ProblemsSeverityAndDescriptionConfigurationArea.java
+org eclipse internal views markers org eclipse swt widgets composite link problems severity and description configuration area configuration area problems view problems severity and description configuration area severity and description configuration area override create contents composite parent create contents parent create severity group parent

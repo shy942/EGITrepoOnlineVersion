@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/dnd/TestDropLocation.java
+org eclipse internal dnd org eclipse swt graphics point org eclipse swt widgets shell this intended test suites objects implement force dragged object dropped location test drop location location object dropped display coordinates location display coordinates point location drop code pretend shells open order shells check drop targets bottom top shell shells

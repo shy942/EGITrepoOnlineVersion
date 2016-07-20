@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/SpinnerMaximumProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets spinner spinner maximum property widget int value property override get int value object source spinner source maximum override set int value object source spinner source set maximum override string string spinner maximum

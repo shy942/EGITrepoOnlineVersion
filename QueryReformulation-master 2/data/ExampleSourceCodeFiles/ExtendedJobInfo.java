@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/progress/ExtendedJobInfo.java
+org eclipse tests progress org eclipse core runtime jobs job org eclipse internal progress job info only readable link string method extended job info job info extended job info job enclosing job enclosing job override string string extended job info name job name priority job priority state job state system job system user job user

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/data/dynamic_classes/intro/org/eclipse/ui/dynamic/DynamicIntro.java
+org eclipse dynamic org eclipse swt widgets composite org eclipse intro part dynamic intro intro part dynamic intro override create part control composite parent override set focus override standby state changed standby

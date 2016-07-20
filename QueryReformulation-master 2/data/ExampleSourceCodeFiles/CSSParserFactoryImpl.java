@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/dom/parsers/CSSParserFactoryImpl.java
+org eclipse css core impl dom parsers org eclipse css core dom parsers parser org eclipse css core dom parsers parser factory link parser factory implementation version author href mailto angelo zerr gmail angelo parser factory impl parser factory override parser parser parser impl

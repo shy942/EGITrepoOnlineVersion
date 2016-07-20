@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.e4.demo.contacts/src/org/eclipse/e4/demo/contacts/handlers/FragmentHandler.java
+org eclipse demo contacts handlers org eclipse core annotations execute org eclipse jface dialogs message dialog org eclipse swt widgets shell fragment handler execute shell shell message dialog open information shell hello see eclipse

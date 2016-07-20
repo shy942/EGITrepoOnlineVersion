@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/basic/impl/DialogImpl.java
+org eclipse model application basic impl org eclipse model application basic dialog org eclipse emf ecore class user doc implementation model object dialog user doc generated dialog impl window impl dialog user doc user doc generated dialog impl user doc user doc generated override class static class basic package impl literals dialog impl

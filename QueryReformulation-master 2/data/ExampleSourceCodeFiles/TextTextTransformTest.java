@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests.css.swt/src/org/eclipse/e4/ui/tests/css/swt/TextTextTransformTest.java
+org eclipse tests css swt org eclipse swt org eclipse swt widgets composite org eclipse swt widgets control org eclipse swt widgets text text text transform test text transform test override control create control composite parent text parent override string widget name text override string text control control text control text override set text control control string string text control set text string

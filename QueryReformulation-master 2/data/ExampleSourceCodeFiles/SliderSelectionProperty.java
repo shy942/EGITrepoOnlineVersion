@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/SliderSelectionProperty.java
+org eclipse jface internal databinding swt org eclipse swt org eclipse swt widgets slider slider selection property widget int value property slider selection property selection override get int value object source slider source selection override set int value object source slider source set selection override string string slider selection

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/IObjectContributor.java
+org eclipse internal objects classes implement registered object type object contributor manager unlike extenders matching contributors processed sequence implementing applicable method contributor manager skip object desired type properties match additional requirements imposed contributor object contributor returns true contributor considered object param object object text applicable object object return receiver adapt resource adapt

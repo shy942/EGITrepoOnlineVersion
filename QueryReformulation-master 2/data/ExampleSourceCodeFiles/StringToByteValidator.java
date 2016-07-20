@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding/src/org/eclipse/core/internal/databinding/validation/StringToByteValidator.java
+org eclipse core internal databinding validation org eclipse core internal databinding conversion string number parser string byte validator abstract string number validator byte byte byte byte byte byte param converter string byte validator number format converter converter converter override range number number string number parser byte range number

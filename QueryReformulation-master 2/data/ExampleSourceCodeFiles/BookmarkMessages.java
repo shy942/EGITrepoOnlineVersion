@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/views/bookmarkexplorer/BookmarkMessages.java
+org eclipse views bookmarkexplorer utility helps managing messages deprecated these messages referenced plug deprecated bookmark messages bookmark messages prevent instantiation returns formatted message key resource bundle param key resource param args message arguments string string format string key object args key returns resource object key resource bundle isn key key returned param key resource string string string string key key

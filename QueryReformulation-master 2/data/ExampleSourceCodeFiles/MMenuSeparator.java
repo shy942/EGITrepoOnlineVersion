@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/menu/MMenuSeparator.java
+org eclipse model application menu user doc representation model object separator user doc model doc element representing separator menu noimplement this intended implemented clients model doc model generated menu separator menu element menu separator

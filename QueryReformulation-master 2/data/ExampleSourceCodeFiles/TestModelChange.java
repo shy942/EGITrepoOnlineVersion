@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/TestModelChange.java
+org eclipse jface tests viewers test model change kind test element parent test element children test model change kind test element parent kind parent test element test model change kind test element parent test element children kind kind parent parent children children test model change kind test element parent test element child kind parent test element child test element children children kind kind modifiers kind test element parent parent

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/browser/AbstractWebBrowser.java
+org eclipse browser clients supply implementation workbench browser support extend web browser instances manage clients implement code web browser code abstract web browser web browser string constructor accepts unique browser identifier param unique browser identifier abstract web browser string override string override close false

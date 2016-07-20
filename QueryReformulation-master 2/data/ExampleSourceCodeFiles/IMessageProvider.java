@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/dialogs/IMessageProvider.java
+org eclipse jface dialogs minimal message provider used dialog provide message icon message provider constant regular message typically message icon constant info message constant warning message constant error message returns current message message provider message instruction user message code null code string message returns indicating message message warning message error message returns code code code code code code code code message type message type

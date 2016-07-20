@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.monitoring.tests/src/org/eclipse/ui/internal/monitoring/MonitoringTestSuite.java
+org eclipse internal monitoring org junit runner run with org junit runners suite test suite code org eclipse monitoring plug tests link event loop monitor thread manual tests included suite flakiness run with suite suite suite classes event loop monitor thread tests filter handler tests default logger tests monitoring test suite

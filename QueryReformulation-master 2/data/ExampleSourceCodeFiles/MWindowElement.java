@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/basic/MWindowElement.java
+org eclipse model application basic org eclipse model application element user doc representation model object window element user doc model doc mixed element allowed window noimplement this intended implemented clients model doc model true true generated window element element window element

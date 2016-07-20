@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.services/src/org/eclipse/e4/ui/services/EMenuService.java
+org eclipse services provide management menus noimplement this intended implemented clients menu service create menu control hook popup menu param parent parent context menu control param menu menu code true code registration succeeded code false code register context menu object parent string menu

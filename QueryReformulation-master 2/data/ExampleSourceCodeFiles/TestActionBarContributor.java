@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/multieditor/TestActionBarContributor.java
+org eclipse tests multieditor org eclipse jface action cool bar manager org eclipse editor action bar contributor test action bar contributor editor action bar contributor test action bar contributor override contribute cool bar cool bar manager cool bar manager contribute cool bar cool bar manager

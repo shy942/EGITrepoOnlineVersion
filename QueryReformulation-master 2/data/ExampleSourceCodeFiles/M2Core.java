@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.navigator/src/org/eclipse/ui/tests/navigator/m12/model/M2Core.java
+org eclipse tests navigator model core resource model object object object object file file file file object file resource name file file resource null

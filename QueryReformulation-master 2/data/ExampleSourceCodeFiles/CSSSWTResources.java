@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.e4.ui.tests.css.swt/tkuiTestsToRefactor/swt/test/org/akrogen/tkui/css/swt/resources/CSSSWTResources.java
+org akrogen tkui css swt resources java input stream resources styles input stream resources resource stream swt swt css input stream matrix resources resource stream swt matrix css input stream vista resources resource stream swt vista css input stream osx resources resource stream swt osx css input stream pseudo lass resources resource stream swt pseudo css

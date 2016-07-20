@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/advanced/MArea.java
+org eclipse model application advanced org eclipse model application label org eclipse model application basic part sash container user doc representation model object area user doc model doc this concrete element representing sashed chunk presentation minimize maximize unit this eclipse split editor area noimplement this intended implemented clients model doc model generated area part sash container label area

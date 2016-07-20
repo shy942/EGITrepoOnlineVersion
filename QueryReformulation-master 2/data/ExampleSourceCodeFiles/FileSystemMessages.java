@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/ide/filesystem/FileSystemMessages.java
+org eclipse internal ide filesystem org eclipse osgi util file system messages handles messages filesystem support file system messages string org eclipse internal ide filesystem messages load message values bundle file initialize messages file system messages file system string default file system label file system selection string file system selection title

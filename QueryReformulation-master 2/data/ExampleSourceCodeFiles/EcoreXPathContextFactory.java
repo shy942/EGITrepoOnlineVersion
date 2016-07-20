@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.emf.xpath/src/org/eclipse/e4/emf/xpath/EcoreXPathContextFactory.java
+org eclipse emf xpath org apache commons jxpath path context reference impl org eclipse emf internal xpath object pointer factory org eclipse emf internal xpath path context factory impl org eclipse emf ecore object factory creates path context factory link object ecore path context factory path context reference impl add node pointer factory object pointer factory create factory factory path context factory object instance path context factory impl

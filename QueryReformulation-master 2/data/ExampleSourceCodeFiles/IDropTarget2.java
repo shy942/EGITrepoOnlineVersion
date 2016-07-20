@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/dnd/IDropTarget2.java
+org eclipse internal dnd this drop target informed drag operation cancelled this target clean extended drag feedback drop target drop target this called drag operation cancelled drag finished drop performed

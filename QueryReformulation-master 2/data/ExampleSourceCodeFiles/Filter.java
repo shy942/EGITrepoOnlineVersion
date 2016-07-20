@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/jface/tests/viewers/interactive/Filter.java
+org eclipse jface tests viewers interactive java util array list org eclipse jface viewers viewer org eclipse jface viewers viewer filter filter viewer filter override object filter viewer viewer object parent object elements array list result array list elements length toss item result add elements result array filter property object element object aspect false override select viewer viewer object parent element object element false

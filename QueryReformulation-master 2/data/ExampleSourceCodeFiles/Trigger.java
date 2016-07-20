@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/bindings/Trigger.java
+org eclipse jface bindings object trigger binding this ensures trigger conform minimum requirements namely triggers hashable trigger comparable tests object equal object handle object equal trigger properties param object object compare code null code code true code objects equal code false code override equals object object computes hash code object hash code object override hash code

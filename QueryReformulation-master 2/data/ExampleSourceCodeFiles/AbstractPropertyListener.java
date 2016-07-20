@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/preferences/AbstractPropertyListener.java
+org eclipse internal preferences abstract property listener property map listener override property changed string property ids update override listener attached update update

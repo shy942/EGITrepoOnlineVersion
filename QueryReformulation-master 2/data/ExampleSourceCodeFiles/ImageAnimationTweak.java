@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/tweaklets/ImageAnimationTweak.java
+org eclipse internal tweaklets org eclipse swt widgets shell org eclipse internal rectangle animation feedback base org eclipse internal rectangle animation image feedback return animation feedback images image animation tweak animations default tor image animation tweak override rectangle animation feedback base create feedback shell shell rectangle animation image feedback shell null null

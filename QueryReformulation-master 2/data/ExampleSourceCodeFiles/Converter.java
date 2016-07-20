@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.databinding/src/org/eclipse/core/databinding/conversion/Converter.java
+org eclipse core databinding conversion abstract base converters converter converter object type object type param type param type converter object type object type type type type type override object from type type override object type type

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.core.commands/src/org/eclipse/core/commands/IParameterValues.java
+org eclipse core commands java util map parameters command this consulted parameters displayed user otherwise parameter values returns map keyed externalized names parameter values these names human readable generally display user user sort values actual values interpreted handler command map externalizable parameter code string code actual parameter code string code suppress warnings rawtypes map parameter values

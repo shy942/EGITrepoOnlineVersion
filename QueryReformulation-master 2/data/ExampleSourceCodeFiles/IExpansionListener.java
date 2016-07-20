@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.forms/src/org/eclipse/ui/forms/events/IExpansionListener.java
+org eclipse forms events classes implement notified expandable control expansion expansion listener notifies listener expandable control change expansion event param expansion event expansion state changing expansion event notifies listener expandable control changed expansion event param expansion event expansion state changed expansion event

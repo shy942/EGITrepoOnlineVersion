@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/wizards/datatransfer/IDataTransferHelpContextIds.java
+org eclipse internal wizards datatransfer org eclipse platform help context ids data transfer wizards this constants intended implemented extended data transfer help context ids string platform wizard string file system export wizard string file system wizard string zip file export wizard string zip file wizard

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.navigator/src/org/eclipse/ui/navigator/ICommonFilterDescriptor.java
+org eclipse navigator provides common filter extension noextend this intended extended clients noimplement this intended implemented clients common filter descriptor identifier determine filter visible string translated identify filter string name translated description explain user defined filter hide view string description indicates filter active active default

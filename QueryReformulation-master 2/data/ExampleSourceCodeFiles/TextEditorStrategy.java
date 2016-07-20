@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/ide/TextEditorStrategy.java
+org eclipse internal ide org eclipse editor descriptor org eclipse editor registry org eclipse ide unassociated editor strategy text editor strategy unassociated editor strategy override editor descriptor editor descriptor string editor registry editor reg editor reg find editor workbench plugin

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface/src/org/eclipse/jface/dialogs/IPageChangedListener.java
+org eclipse jface dialogs listener notified current multi dialog changed page change provider page changed event page changed listener notifies selected changed param event event object describing change changed page changed event event

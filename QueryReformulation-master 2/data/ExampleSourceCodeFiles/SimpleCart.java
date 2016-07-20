@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/examples/org.eclipse.jface.examples.databinding/src/org/eclipse/jface/examples/databinding/model/SimpleCart.java
+org eclipse jface examples databinding model org eclipse jface examples databinding model object simple cart model object num items num items num items set num items num items fire property change num items num items num items num items

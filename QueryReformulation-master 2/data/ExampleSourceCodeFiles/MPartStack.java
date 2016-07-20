@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.model.workbench/src/org/eclipse/e4/ui/model/application/ui/basic/MPartStack.java
+org eclipse model application basic org eclipse model application generic stack user doc representation model object part stack user doc model doc this concrete representing stack parts model noimplement this intended implemented clients model doc model generated part stack generic stack stack element part sash container element window element part stack

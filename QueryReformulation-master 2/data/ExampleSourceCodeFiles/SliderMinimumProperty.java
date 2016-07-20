@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/internal/databinding/swt/SliderMinimumProperty.java
+org eclipse jface internal databinding swt org eclipse swt widgets slider slider minimum property widget int value property override get int value object source slider source minimum override set int value object source slider source set minimum override string string slider minimum

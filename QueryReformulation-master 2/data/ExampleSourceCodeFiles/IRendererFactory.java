@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.workbench.swt/src/org/eclipse/e4/ui/workbench/swt/factories/IRendererFactory.java
+org eclipse workbench swt factories org eclipse internal workbench swt abstract part renderer org eclipse model application element renderer factory abstract part renderer renderer element element object parent init eclipse context context

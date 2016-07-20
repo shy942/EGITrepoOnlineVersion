@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests.forms/forms/org/eclipse/ui/tests/forms/util/AllUtilityTests.java
+org eclipse tests forms util junit framework test junit framework test suite tests forms performance automated all utility tests test suite returns entire test suite test suite all utility tests constructs performance test suite all utility tests add test suite form images tests add test suite form fonts tests add test suite form colors tests add test suite form toolkit test add test suite image hyperlink test

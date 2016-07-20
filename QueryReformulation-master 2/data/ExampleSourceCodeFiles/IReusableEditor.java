@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/IReusableEditor.java
+org eclipse interface reusable editors editors support changing input workbench change contents opening editor reusable editor editor part sets input editor note clients fire link editor part property change implementation code set input code param input editor input set input editor input input

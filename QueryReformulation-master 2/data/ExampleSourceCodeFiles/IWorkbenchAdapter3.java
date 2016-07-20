@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/model/IWorkbenchAdapter3.java
+org eclipse model org eclipse jface viewers styled string extension code workbench adapter code styled string support workbench adapter workbench label provider base workbench content provider org eclipse jface viewers delegating styled cell label provider styled label provider workbench adapter returns styled text label element param element element evaluate styled string styled string styled string styled text object element

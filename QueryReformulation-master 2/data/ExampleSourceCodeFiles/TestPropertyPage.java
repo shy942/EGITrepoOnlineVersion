@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse JFace Tests/org/eclipse/ui/tests/propertyPages/TestPropertyPage.java
+org eclipse tests property pages org eclipse swt org eclipse swt widgets composite org eclipse swt widgets control org eclipse swt widgets label org eclipse workbench property page org eclipse dialogs property page test property page property page workbench property page test property page create instance receiver override control create contents composite parent label label label parent label set text test label

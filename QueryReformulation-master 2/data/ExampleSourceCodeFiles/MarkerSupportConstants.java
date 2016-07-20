@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/views/markers/MarkerSupportConstants.java
+org eclipse views markers marker support constants supplies commonly constants marker support constants constant link filters contribution parameters string constant link filters contribution parameters string

@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.jface.databinding/src/org/eclipse/jface/databinding/viewers/CellEditorProperties.java
+org eclipse jface databinding viewers org eclipse core databinding property value property org eclipse jface internal databinding viewers cell editor control property org eclipse jface viewers cell editor factory creating properties face link cell editor cell editors cell editor properties returns property observing control link cell editor property observing control link cell editor value property control cell editor control property

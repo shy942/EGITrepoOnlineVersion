@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/dialogs/ISelectionValidator.java
+org eclipse dialogs for validating selections selection dialogs clients implement define specialized selection validators selection validator returns string indicating selection valid result code null code selection considered valid result empty error message displayed user param selection selection validated error message code null code indicating valid string valid object selection

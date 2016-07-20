@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/tweaklets/AllowGrabFocus.java
+org eclipse internal tweaklets org eclipse swt widgets display org eclipse workbench part allow grab focus grab focus override grab focus allowed workbench part true override init display display override dispose

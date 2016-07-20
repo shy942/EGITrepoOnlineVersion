@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/tests/org.eclipse.ui.tests/Eclipse UI Tests/org/eclipse/ui/tests/activities/ActivitiesTestSuite.java
+org eclipse tests activities org junit runner run with org junit runners suite activities test suite runs activities test suites run with suite suite suite classes images test util test static test dynamic test persistance test activity preference test menus test pattern util test activities test suite

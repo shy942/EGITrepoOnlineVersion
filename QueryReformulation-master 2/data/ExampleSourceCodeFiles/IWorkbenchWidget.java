@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/menus/IWorkbenchWidget.java
+org eclipse menus org eclipse jface menus widget org eclipse workbench window interface widget contributed workbench allows contributed widget informed workbench window hosted org eclipse jface menus widget workbench widget widget initializes widget contribution supplying code workbench window code hosted this method called argument constructor methods called param workbench window current workbench init workbench window workbench window

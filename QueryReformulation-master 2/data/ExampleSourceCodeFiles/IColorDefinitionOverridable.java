@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.swt/src/org/eclipse/e4/ui/internal/css/swt/definition/IColorDefinitionOverridable.java
+org eclipse internal css swt definition org eclipse swt graphics color definition overridable theme element definition overridable

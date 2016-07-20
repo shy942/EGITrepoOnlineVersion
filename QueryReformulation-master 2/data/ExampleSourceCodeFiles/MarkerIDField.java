@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.ide/src/org/eclipse/ui/internal/views/markers/MarkerIDField.java
+org eclipse internal views markers org eclipse views markers marker field org eclipse views markers marker item marker field marker field override string value marker item item item marker null string marker support item item marker support internal utilities override compare marker item item marker item item marker support item item marker support item item

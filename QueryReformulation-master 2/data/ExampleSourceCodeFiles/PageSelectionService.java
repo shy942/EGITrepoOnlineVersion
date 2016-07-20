@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.workbench/Eclipse UI/org/eclipse/ui/internal/PageSelectionService.java
+org eclipse internal org eclipse workbench page page selection service abstract selection service workbench page creates selection service specific workbench page selection service workbench page set page sets set page workbench page returns workbench page page abstract selection service create part tracker string override abstract part selection tracker create part tracker string page part selection tracker page

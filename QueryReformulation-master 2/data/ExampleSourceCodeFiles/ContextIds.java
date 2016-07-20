@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.ui.browser/src/org/eclipse/ui/internal/browser/ContextIds.java
+org eclipse internal browser context constants context ids string web browser plugin browser preference context string web browser plugin browser preference dialog context string web browser plugin browser context

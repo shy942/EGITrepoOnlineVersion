@@ -1,0 +1,2 @@
+/Users/user/eclipse.platform.ui/bundles/org.eclipse.e4.ui.css.core/src/org/eclipse/e4/ui/css/core/impl/dom/CSSExtendedPropertiesImpl.java
+org eclipse css core impl dom org eclipse css core dom extended properties org eclipse css core engine engine link extended properties implementation extended properties impl properties impl extended properties extended properties impl object widget engine engine widget engine
