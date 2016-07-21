@@ -22,9 +22,15 @@ public class BugExtractor {
 	String outDir;
 
 	public BugExtractor(String xmlFileName, int year) {
-		this.xmlFileName = StaticData.BUGDIR + "/" + xmlFileName;
-		this.outDir = StaticData.BUGDIR + "/New/"+ year;
+		this.xmlFileName = StaticData.BUGDIR + "/BugAllContent/XMLfiles/" + xmlFileName;
+		this.outDir = StaticData.BUGDIR + "/BugAllContent/ExtractedData/"+ year;
 	}
+	
+	public BugExtractor(String xmlFileName) {
+		this.xmlFileName = StaticData.BUGDIR + "/BugAllContent/XMLfiles/" + xmlFileName;
+		this.outDir = StaticData.BUGDIR + "/BugAllContent/ExtractedData/";
+	}
+
 
 	protected void extractBugReports() {
 		try {
@@ -55,7 +61,7 @@ public class BugExtractor {
 
 					String title = eElement.getElementsByTagName("short_desc")
 							.item(0).getTextContent();
-					xmlcontent += title + "\n";
+					xmlcontent += title + " ";
 
 					int numOfLong_desc = eElement.getElementsByTagName(
 							"long_desc").getLength();
@@ -66,9 +72,9 @@ public class BugExtractor {
 									.getTextContent();
 							description = description.trim();
 							int comment_seq=j+1;
-							String processedContent=sentenceExamples(description, comment_seq); 
-							xmlcontent +=processedContent.trim();
-							//xmlcontent += description + "\n";
+							//String processedContent=sentenceExamples(description, comment_seq); 
+							//xmlcontent +=processedContent.trim();
+							xmlcontent += description + " ";
 						}
 					}
 
@@ -152,9 +158,22 @@ public class BugExtractor {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String xmlFileName="show_bug_plat_UI_Closed_fixed_800_1stJan2015_to_26thFeb2016.xml";
-		int year=2015;
-		new BugExtractor(xmlFileName, year).extractBugReports();
+		String XMLfolderPath=StaticData.BUGDIR+"/BugAllContent/XMLfiles/";
+		File[] files = new File(XMLfolderPath).listFiles();
+		for (File file : files) {
+	        if (file.isDirectory()) {
+	            System.out.println("Directory: " + file.getName());
+	            
+	        } else {
+	            System.out.println("File: " + file.getName());
+	            new BugExtractor(file.getName()).extractBugReports();
+	        }
+	    }
+		
+		
+		//String xmlFileName="show_bug_plat_UI_Closed_fixed_800_1stJan2015_to_26thFeb2016.xml";
+		//int year=2015;
+		//new BugExtractor(xmlFileName, year).extractBugReports();
 		//This is a simple change to the fine.
 
 	}

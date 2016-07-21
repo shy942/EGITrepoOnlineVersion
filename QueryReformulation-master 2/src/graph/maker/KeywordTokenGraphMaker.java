@@ -41,21 +41,23 @@ public class KeywordTokenGraphMaker {
 				.mappFile2Tokens();
 		HashMap<String, ArrayList<String>> tokenFileMap = fTMapper
 				.getTokenFileMap();
+		mapper.showBipartiteGraph();
 		// now develop the map
-		for (String keyword : key2FileMap.keySet()) {
+		/*for (String keyword : key2FileMap.keySet()) {
 			HashSet<String> srcTokens = new HashSet<>();
 			ArrayList<String> fileList = key2FileMap.get(keyword);
 			if(!fileList.isEmpty())this.keywordFileMap.put(keyword, fileList);
-			for (String fileURL : fileList) {
+			System.out.println(keyword+": "+fileList);
+			/*for (String fileURL : fileList) {
 				String fileKey = getFileName(fileURL);
 				if (fileTokenMap.containsKey(fileKey)) {
 					srcTokens.addAll(fileTokenMap.get(fileKey));
 				}
 			}
 			// now add the linking
-			this.keywordTokenMap.put(keyword, new ArrayList<>(srcTokens));
+			this.keywordTokenMap.put(keyword, new ArrayList<>(srcTokens));*/
 			//this.keywordFileMap.put(keyword, fileList);
-		}
+		//}
 	}
 
 	public void showBipartiteGraph() {
@@ -77,12 +79,12 @@ public class KeywordTokenGraphMaker {
 	}
 
 	public static void main(String[] args) {
-		String bugTitleFile = "./data/BugInfoFile.txt";
+		String bugTitleFile = "./data/bugCorpus.txt";
 		String gitInfoFile = "./data/GitInfoFile2.txt";
 		String srcCodeDir = "./data/ExampleSourceCodeFiles";
 		KeywordTokenGraphMaker gmaker = new KeywordTokenGraphMaker(
 				bugTitleFile, gitInfoFile, srcCodeDir);
 		gmaker.developBipartiteGraph();
-		gmaker.showBipartiteGraph();
+		//gmaker.showBipartiteGraph();
 	}
 }

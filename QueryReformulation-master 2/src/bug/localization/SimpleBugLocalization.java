@@ -86,7 +86,7 @@ public class SimpleBugLocalization {
 			list.add(content);
 			//if(i>3) break;
 		}
-		ContentWriter.writeFormulatedQueriesContent(StaticData.OUTPUTFOLDER+"/processedMapDatabase.txt", list);
+		ContentWriter.writeFormulatedQueriesContent(StaticData.OUTPUTFOLDER+"/processedMapDatabaseForAllcontent.txt", list);
 	}
 	public void LocalizedBugInSimpleWay(HashMap<String, ArrayList<String>> hmReformedQueries, HashMap<String, ArrayList<String>> hmKeywordFileMap)
 	{
@@ -122,7 +122,7 @@ public class SimpleBugLocalization {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String bugTitleFile = "./data/BugInfoFile.txt";
+		String bugTitleFile = "./data/bugCorpus.txt";
 		String gitInfoFile = "./data/GitInfoFile2.txt";
 		String srcCodeDir = "./data/ExampleSourceCodeFiles";
 		
@@ -137,7 +137,7 @@ public class SimpleBugLocalization {
 		//Step 3
 		HashMap<String, ArrayList<String>> hmReformedQueries= ContentLoader.returnHashMapFromFileContentForQuery(StaticData.OUTPUTFOLDER+"/processedQuery.txt");
 		MiscUtility.showResult(10, hmReformedQueries);
-		HashMap<String, ArrayList<String>> hmKeywordFileMap= ContentLoader.returnHashMapFromFileContent(StaticData.OUTPUTFOLDER+"/processedMapDatabase.txt");
+		HashMap<String, ArrayList<String>> hmKeywordFileMap= ContentLoader.returnHashMapFromFileContent(StaticData.OUTPUTFOLDER+"/processedMapDatabaseForAllcontent.txt");
 		
 		obj.LocalizedBugInSimpleWay(hmReformedQueries, hmKeywordFileMap);
 	}

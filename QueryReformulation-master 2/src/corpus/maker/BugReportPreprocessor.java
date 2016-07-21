@@ -52,6 +52,40 @@ public class BugReportPreprocessor {
 		String[] contentByLine=content.split("\\r?\\n");
 		return new ArrayList<String>(Arrays.asList(contentByLine));
 	}
+	
+	public String performNLPforAllContent() {
+		// performing NLP operations
+		ArrayList<String> str=splitContent(this.content);
+		ArrayList<String> stemmed = new ArrayList<String>();
+		//for (String indLine : lineOfContent) 
+		//{
+			
+		//ArrayList<String> words = splitContent(indLine);
+		//ArrayList<String> words = splitContent(this.content);
+		ArrayList<String> refined = removeStopWords(str);
+		//ArrayList<String> stemmed = new ArrayList<String>();
+		int found=0;
+		for (String word : refined) {
+			if (!word.trim().isEmpty()) {
+				String stemmedWord = performStemming(word.trim());
+				if (stemmedWord.length() >= 3) {
+					stemmedWord=stemmedWord.toLowerCase(Locale.ENGLISH);
+					stemmedWord=stemmedWord.trim();
+					stemmedWord=stemmedWord.replaceAll("“", "");
+					stemmedWord=stemmedWord.replaceAll("”", "");
+					if(!stemmedWord.isEmpty())
+						{
+							stemmed.add(stemmedWord.trim());
+							found=1;
+						}
+					}
+				}
+			}
+		//if(found>0)stemmed.add("\n");
+		//}
+		return MiscUtility.list2Str(stemmed);
+
+	}
 
 	public String performNLP() {
 		// performing NLP operations

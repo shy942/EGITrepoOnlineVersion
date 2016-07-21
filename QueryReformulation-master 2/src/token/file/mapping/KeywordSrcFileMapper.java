@@ -64,18 +64,26 @@ public class KeywordSrcFileMapper {
 					tempList.addAll(this.changeset.get(bugID));
 				}
 			}
-			this.token2SrcMap.put(token, tempList);
+			if(!tempList.isEmpty())this.token2SrcMap.put(token, tempList);
 		}
 		System.out.println("Created map:" + this.token2SrcMap.keySet().size());
 		return this.token2SrcMap;
 	}
 
+	public void showBipartiteGraph() {
+		// showing the bi-partite graph (for keyword file map)
+		for (String keyword : this.token2SrcMap.keySet()) {
+			if(!keyword.equalsIgnoreCase("maven"))System.out.println(keyword + ":"
+					+ this.token2SrcMap.get(keyword));
+		}
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String bugTitleFile = "./data/BugInfoFile.txt";
+		String bugTitleFile = "./data/bugCorpus.txt";
 		String gitInfoFile = "./data/GitInfoFile2.txt";
 		KeywordSrcFileMapper mapper = new KeywordSrcFileMapper(gitInfoFile,
 				bugTitleFile);
 		mapper.mapKeyword2SrcFile();
+		mapper.showBipartiteGraph();
 	}
 }

@@ -21,6 +21,13 @@ public class BugReportCorpusBuilder {
 		this.bugPPFolder=StaticData.PROCESSEDBUGREPORTS+"/new/"+year;
 		this.noOfBugReports=noOfBugReports;
 	}
+	
+	public BugReportCorpusBuilder()
+	{
+		this.bugFolder=StaticData.BUGDIR+"/BugAllContent/ExtractedData/";
+		this.bugPPFolder=StaticData.BUGDIR+"/BugAllContent/ProcessedData/";
+		this.noOfBugReports=noOfBugReports;
+	}
 	protected void createPreprocessedRepo()
 	{
 		File[] files=new File(bugFolder).listFiles();
@@ -31,16 +38,17 @@ public class BugReportCorpusBuilder {
 			String fileName=f.getName();
 			String content=ContentLoader.readContentSimple(f.getAbsolutePath());
 			BugReportPreprocessor bpp=new BugReportPreprocessor(content);
-			String preprocessed=bpp.performNLP();
+			String preprocessed=bpp.performNLPforAllContent();
 			//preprocessed=preprocessed.replace(",", " ");
-			preprocessed=preprocessed.trim();
+			preprocessed=fileName+": "+preprocessed.trim()+"\n";
 			String outFile=this.bugPPFolder+"/"+fileName;
 			ContentWriter.writeContent(outFile, preprocessed);
 			//allInOne+=allInOne+preprocessed+"\n";
 			System.out.println("Preprocessed:"+fileName);
 			list.add(preprocessed);
 		}
-		String outFile=StaticData.PROCESSEDBUGREPORTS+"/new/AllinOne/"+"input"+year+".txt";
+		//String outFile=StaticData.PROCESSEDBUGREPORTS+"/new/AllinOne/"+"input"+year+".txt";
+		String outFile=StaticData.BUGDIR+"/BugAllContent/bugCorpus.txt";
 		ContentWriter.writeContent(outFile, list);
 	}
 	
@@ -76,7 +84,8 @@ public class BugReportCorpusBuilder {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//IndividualYearProcessing();
-		PutAll2gether();
+		//PutAll2gether();
+		new BugReportCorpusBuilder().createPreprocessedRepo();
 	}
 
 }
